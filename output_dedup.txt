@@ -1,0 +1,1348 @@
+Inspection Pro Â© {}. Powered by Tradebeyond
+Update
+Inspector
+Camera permission denied message, Please grant permission
+Please Scan the Environment Code
+Invalid Environment Code
+Failed to scan QR code
+Upload from Album
+Forgot Password?
+Use Your Fingerprint/ Face Recognition to Log in
+Your device support biometric authentication.
+Environment Code
+Username
+Please enter your username
+Password
+Please enter your password
+Error text for user name & password.
+Login
+Scan your fingerprint (or face or whatever) to authenticate
+Bookings
+Reports
+Sync
+LOGOUT
+Today
+Tomorrow
+Afterwards
+Past
+Item
+Defect Code
+Critical
+Major
+Minor
+Defective Unit
+Total Defective Units
+Add New
+Contact Person
+Go there
+Filter
+Clear
+Apply
+Search & Filter
+Show Date
+Filter by planned inspection date between:
+Filter by planned audit date between:
+Pick Date Range
+Filter by Factory
+Hide report that completed after below day(s)
+Outdated Report
+Show
+Hide
+Show Status
+All Factories
+New
+In Progress
+Signed
+Submitted
+Overdue
+Uploaded
+Uploading{}
+Booking Details
+Data Load Failed
+Item No.
+Product Category
+VPO No.
+Shipment No.
+Order Quantity
+Order Carton Quantity
+Actual Carton Quantity
+Status
+Action
+Set
+No items
+Create Report
+Booking Report
+Defect Details
+Checklist
+CAPA
+Please enter CAPA for the test item.
+Review By
+Reference
+Corrective Action
+Due Date
+Responsible Person
+Completion Date
+Images & Attachments
+Code
+Summary
+Item Name
+Item Description
+AQL Information
+AQL Info
+Level
+Measurement Type
+Measurement Direction
+Measurement System
+Sample Size
+Calculated
+Fixed
+Actual
+Defective Quantity
+Details
+Defect Summary
+Accept
+Result
+Type
+Change
+Format
+Notes/Instructions
+Template
+Planned Date
+Planned Hour
+References
+Factory Name
+Customer
+Vendor
+Coordinator
+All
+All Items
+With Report
+Without Report
+Delete Report
+Are you sure to delete this report and related attachment(s)? This action cannot be undone.
+Delete
+Cancel
+SELECT
+Done
+Confirm
+No.
+Name
+Module
+Ref#
+Section
+Description
+Item No. (Set)
+Comment
+Production Quantity
+Ordered
+OK
+Signed Date
+Has not been signed
+Location
+Factory
+Loading...
+Report Load Failed
+No inspect items
+Booking Information
+Inspection Party
+Inspection Office
+Carton Result
+Carton Comments
+Carton Check
+Defect Result
+Defect Comments
+Measurement Result
+Measurement Comments
+{} Result
+{} Comments
+Checklist Result
+Checklist Comments
+Overall Result
+Actual Hours
+Inspection Date
+Shipment Released
+Fail Reason
+Overall Comments
+Sign
+Camera
+Video
+Voice Clip
+Photo Album
+Photo Creation Date
+Critical Level
+Add comment
+View comment
+Enter comments here
+Save
+Rotate image
+Completed
+{} on {}
+Session Expired
+Sample Tracker
+Sample Evaluation
+Image
+Attachment
+Measurement
+Checklist Summary
+Label
+Total Count
+Item No
+Actual Quantity
+Are you sure to log out?
+All local setting will be wiped out. While the data will be kept until you uninstall the app or clear the data from system setting.
+Customer Product No.
+Keycode/ Style No.
+Calculated Sample Size
+Calculated Carton Sample Size
+Point of Meas.
+Std. Meas.
+Color
+Create sample
+Create %s sample(s)
+Tol. (+/-)
+Delete Test Item
+Are you sure to delete this item? This action cannot be undone.
+Create
+Create New Items
+Enter the name of the test item
+UOM
+Measurement Summary
+Size
+Style/ Color
+Measured
+Failed
+Total Qty
+Preview
+SAVE / EXPORT
+SIGN REPORT
+Preview Report
+INSPECTION REPORT
+Printed
+Date
+General Information
+Site Information
+Vendor Information
+Customer Information
+Audit Sampling Info
+Headline
+Contact Details
+Inspection Booking No.
+Inspection Type
+Sample Quantity
+Inspection Format
+Inspection Report Template
+Shipment Date
+Failed Reason
+Appearance
+Packing & Packaging
+Measurement & On-Site Test
+Attachments
+Test Item
+Seq.
+Â©www.tradebeyond.com. All rights reserved
+Outdated
+Select Defect Code
+Change Type
+Change Template
+Delete Booking
+Are you sure to delete this booking and related report(s)? This action cannot be undone.
+no token
+Sync History List
+Sync Details
+Basic info
+Booking Summary
+Booking's Download Status
+Report Summary
+Report Upload Status
+Sync Start Date Time
+Sync End Date Time
+No. of Booking Downloaded
+No. of Booking Failed to download
+No. of Report Uploaded
+No. of Report Not Uploaded
+No. of Report Failed to Upload
+Server (Environment information)
+User
+Start Time
+End Time
+My Bookings
+Success Download
+Failed Download
+Reports Ready to Upload
+Reports that will not be Uploaded
+Success Upload
+Failed Upload
+Booking No.
+Version
+Report No.
+Success
+Booking date range
+Document saved successfully
+Warning
+You have turned off mobile data and Wi-Fi, please switch them on and login again
+Reminder
+No internet connection.
+This booking is outdated, do you want to create a report?
+Old Version of Booking
+This booking is outdated, do you want to edit the report?
+Outdated version, click here to latest version
+Outdated, no longer able to create / amend report
+Front
+Back
+Edit
+Reset
+Create Sample
+New samples will be created as below:
+Reset Sample Size
+Existing measurement records will be cleared after resetting.
+Reset Actual
+Empty List
+Next
+Cannot login with SSO accounts
+Sampling Details
+Sample Size Breakdown
+Color / Size
+Close
+Biometric login
+Enabling biometric login will give you faster access to your information.
+You can turn this feature on or off at any time under Settings.
+Not Now
+Enable
+Biometric setup is completed. You can change it on the Settings page.
+Biometric setup is failed. Please try again.
+Incomplete Fields
+Please fill in the mandatory field(s).
+Measured Quantity
+Failed Quantity
+Checklist Details
+Requirements
+Point of Measure
+Standard Tol(+/-) Measure
+Measurement Details
+Showing {} Samples,Total {} Samples
+Settings
+Account
+Keep Data Period
+Sync History
+Report
+Information
+APP Version
+Logout
+NO LIMIT
+DAY
+WEEK
+MONTH
+YEAR
+{num} {unit} 
+Open
+Show Irrelevant Defects
+Show Notes / Instructions on booking card
+Update Environment
+After updating the environment, the current biometric setting will be cleared, you have to setup the biometric login again. Are you sure to update environment?
+Change Username/ Password
+After changing the username or password, the current biometric setting will be cleared, you have to setup the biometric login again. Are you sure to change username or password?
+When items in Defect Details do not have any defects/ attachments/ comments, they will be hidden on the Preview page and will not upload to the web.
+When turn on, the "Notes / Instructions" value in booking will be shown on Booking Card.
+No Booking
+No Report
+Download bookings by clicking on "Sync" or clear the filter
+No Internet
+Observations
+Report is signed
+Editing this report will clear the signatures and change the status to â€œIn progressâ€. Continue?
+Severity
+Status Score
+Max Score
+% of Score
+Scoring (%)
+Status Score(Total)
+Maximum Score (Total)
+Overall Score (%)
+Overall Rating
+Overall Rating not available
+Where to find the QR?
+Where to find the QR
+"The QR should be provided by your company technical team.
+
+And its purpose is to allow your Inspector app to connect to your company system accordingly."
+OR
+Add new item
+Items
+Report Preview
+Default Empty Defect Details
+Upload Files
+Cancel re-login
+Share File
+Colorway/Option
+Location Permission Required
+"To ensure accurate audit and track record, we kindly request you to grant location permission. 
+Please go to your device's settings and enable location services for a seamless quality check process."
+Location service Required
+"To ensure accurate audit and track record, we kindly request you to turn on location service. 
+This booking is not the latest version. Would you like to create or edit the report?
+Planned Inspection Date Has Passed
+The planned inspection date for this booking has passed. Would you like to create or edit the report?
+When the defect details report is empty, you have to add the test items that are defined in the report template or create new test items to it.
+Camera Permission Denied
+You have blocked camera access. To scan QR code, please go to Settings to enable it.
+Enable the permission in the Settings to take photos.
+Album Permission Denied
+Enable the permission in the Settings to upload photos.
+Microphone Permission Denied
+Enable the permission in the Settings to record voice.
+No GPS Coord.
+Attachment Quality
+Standard
+High (Slower, more data)
+Original (No change)
+ ...more
+Upload File
+Signed Location
+Your Account has been Blocked
+You have reached the maximum number of invalid sign-in attempts. Please update your password on CBX server to unblock account.
+This feature helps to speed up the upload time and reduce data consumption. The attachments will be compressed upon creation.
+Inspection
+Product Inspection Bookings & Reports
+Audit
+Factory Audits & Reports
+Back to Login
+Select Your Role
+Audits
+No Audits
+Download audits by clicking on â€œSyncâ€ or clear the filter
+Delete Audit
+Are you sure to delete this audit and related report(s)? This action cannot be undone.
+Last Updated: 
+Audit Type
+Auditor
+Partner Name
+Facility Address
+Contact Number
+Contact Email
+Status Score (Total)
+Audit Result
+Zero Tolerance Failure
+Sign Here
+Planned Audit Date
+Audit Date
+Report Date
+Expiry Date
+Are you sure you want to resume the report? All signatures will be erased and need to sign again after resume.
+No Factory Audit is downloaded/uploaded
+{} Factory Audit(s) downloaded.
+{} Factory Audit(s) download failed.
+{} Factory Audit(s) uploaded.
+{} Factory Audit(s) upload failed.
+"No booking is downloaded.
+No report is uploaded."
+{} booking(s) downloaded.
+{} booking(s) download failed.
+{} report(s) uploaded.
+{} report(s) upload failed.
+No report is downloaded.
+{} report(s) downloaded.
+You cannot sign under read mode
+Please fill in all required fields highlighted in red before signing.
+Your current location is out of factory range.
+Out of range
+Attachment Type
+Dismiss
+N/A
+Sample Size Detail List ({})
+Carton No.
+Manual Enter Carton No.
+Qty Per Carton
+No. of Carton
+Delivered Qty
+Insp. Carton Qty
+Insp. Carton
+Calculated Insp. Qty
+Actual Insp. Qty
+Actual Sample Size
+Sort Out Qty
+Released Qty
+Color/Size
+Select Color/Size
+Select Color
+Select Size
+Expand All
+Collapse All
+Total
+Auditor Name
+Edit Item
+Last Modified Date: {}
+Cartons
+Select Carton
+Total Cartons
+Fault Type
+Select Fault Type
+Select Fault Status
+Qty
+({} selected)
+Filtering
+Filter by
+Sort by
+Ascending
+Descending
+All Color
+No Color
+Carton Summary
+Qty of Defects
+Total no. Defects
+Scoring Summary
+Overall Summary
+Packaging Measurement
+Packing
+Country
+Packaging Type
+Maximum Allowed (%)
+Maximum Allowed (No.) 
+Bypass
+Factory Representative
+Factory Representative Name
+Factory Representative Title
+Please note that in order to develop and strengthen a healthy business relationship with our business partners, we have an internal policy, which prohibits our employees from accepting advantages including gifts or favours of any kind from our business partners. We therefore would like to request you to please refrain from offering any gifts or favours to our employees during their upcoming visit to your factory. Your continuing co-operation and support are the most valuable gifts of all. Thank you for your cooperation.è«‹æ³¨æ„ï¼Œç‚ºäº†èˆ‡æˆ‘å€‘çš„æ¥­å‹™å¤¥ä¼´ç™¼å±•å’ŒåŠ å¼·å¥åº·çš„æ¥­å‹™é—œä¿‚ï¼Œæˆ‘å€‘åˆ¶å®šäº†ä¸€é …å…§éƒ¨æ”¿ç­–ï¼Œè©²æ”¿ç­–ç¦æ­¢æˆ‘å€‘çš„å“¡å·¥æŽ¥å—åˆ©ç›Š,åŒ…æ‹¬ä¾†è‡ªæˆ‘å€‘æ¥­å‹™å¤¥ä¼´çš„ç¦®ç‰©æˆ–å¥½è™•ã€‚å› æ­¤ï¼Œæˆ‘å€‘å¸Œæœ›æ‚¨ä¸è¦åœ¨æˆ‘å€‘çš„å“¡å·¥è¨ªå•æ‚¨çš„å·¥å» æœŸé–“å‘ä»–å€‘æä¾›ä»»ä½•ç¤¼ç‰©æˆ–åˆ©ç›Šã€‚æ‚¨çš„æŒçºŒåˆä½œèˆ‡æ”¯æŒæ˜¯æœ€æœ‰åƒ¹å€¼çš„ç¦®ç‰©ã€‚è¬è¬æ‚¨çš„åˆä½œã€‚
+Position
+Select Position
+Style & Size
+Select Style & Size
+Select LSV
+EAN
+Select Result
+EAN Code
+Production Status
+EAN Summary
+Pass
+Fail
+Lidl
+KL
+Measurement result breakdown
+Measurement Defects Breakdown
+Special Sample Size (Level S-4)
+to
+Borderline
+Style
+Defect Rate(%)
+Overall
+Point of Measurements
+Tolerance (+)
+Tolerance (-)
+Scan barcode
+Scan code
+Code Scanned
+Carton Production Quantity
+Carton Sample Size
+Packing Production Quantity
+Packing Sample Size
+Unsaved Changes
+Unsaved changes will be discarded.
+EAN Code Result
+EAN Code Comments
+Reject
+"System can't determine the result by the defective quantity you inputted. It is suggested to change the AQL to Normal AQL, and the new Sample Size will be {}.
+Would you like to change the AQL from Reduced to Normal?"
+Defect result is inconclusive
+Change Now
+Pendulum
+AQL Pendulum changed to Normal. Sample size and Accept (Reject) No. has changed. New sample size is {}.
+Zero Tole
+Customer PO No.
+Auto Sync
+Local Version
+Cloud Version
+Select All
+Last edited by {} â€¢ {}
+Confirm Sync?
+Selected result will overwrite the cloud saved.
+Conflict(s) detected!
+The local version and cloud version of report doesnâ€™t match. Please review the conflict(s) before continuing.
+Conflict pending resolve
+Conflict While Syncing
+Conflicts detected in the report during reconnection. Review now to resolve them or ignore to work in offline mode and review later.
+{} Editor
+Review Conflict
+No data
+Last edited by {} on {}
+Confirm All Local
+Are you sure you want to select all {} values in local and sync?
+Confirm All Cloud
+Are you sure you want to select all {} values in cloud and sync?
+Confirm Changes
+Do you confirm to sync with the selected values? This action cannot be undone.
+Confirm & Sync
+Standard : {}
+Tolerance : {}
+Load fail...
+Review
+Ignore
+Grid View
+No File yet
+New Folder
+Photo
+Audio
+Media Library
+Document
+URL
+Stop to Save Recording
+Press to Record Audio
+Select
+Confirm Delete
+Attachment will be deleted and this cannot be undone.
+Audit Party
+Reference Data
+Last Synced
+Add URL
+Add
+Show Column
+All Result
+Comments
+All conflicts have been resolved. Please click 'Sync' to proceed.
+Click here to open file
+Click here to open link in browser
+Attachment Details
+Maximum file size exceeded
+"The file size is {} 
+The default size is {}"
+Item Code
+Mandatory fields are missing
+AQL
+Last Modified on
+Report List
+Item List
+Template Type
+Inspector(s)
+Advance Editor
+No Report Yet
+Home
+Info Tag
+Add Tag
+Unit of Measure
+Tol Unit
+Options
+All {}
+No {}
+-None-
+None
+...More
+Duplicate
+Duplicate Code is found in POM, please remove the duplicate one and try again.
+Delete POM
+You just deleted all POMs for the measurement type. You will not be able to see this measurement type if once confirmed.
+Please fill in the Code and try again.
+Split
+A potential need for Split Inspection
+For the item was spin off, the item will be sorted out completely.
+No. of Defect
+Final Inspection
+Your account does not have the Inspectors or Auditors role assigned.
+Past & Next 7 Days
+Past & Next 30 Days
+Select Specific Range
+Total Order Quantity
+Total Actual Quantity
+Quantity Difference
+Header
+Items/SKUs
+Item Table
+Inspector Signature
+Auditor Signature
+Factory Rep Signature
+Signature
+Click here to Sign
+"Complete above mandatory
+       field before signing"
+Are you sure you want to discard your changes? Any unsaved changes will be lost.
+Discard Changes
+Discard
+Abort Inspection
+Abort Reason
+Report successfully submitted.
+Report initialization Failed :{}
+Included Item(s)
+% Adjust Quality Plan Weighting
+Scoring Weighting
+{}% Exceeds
+{}% Distributed â€¢ {}% Left
+All Distributed
+Conclusion
+No audit
+Audit pending to sync
+Report pending to sync
+{} Report(s) pending to sync
+Submit
+Finish current section before going to next one
+Next Section:  {}
+Reconnected to Internet.
+No Internet connection. Changes will sync after reconnecting.
+Offline
+Start Report
+Search Item
+Search Reports
+Search Header
+Please select item(s) to proceed.
+Duplicate Report(s)
+One or more of the items youâ€™ve selected already have report(s). View existing report or continue to create new ones.
+Create Anyway
+View Report(s)
+Search List
+Reset Result
+Enter at least 3 letters to search
+No Search Result
+Create Inspection
+Invalid template.
+Scan/Search Code
+Information below will be automatically filled if a match is found. Or you can input the information manually.
+Scan Code
+Enter Barcode
+Report Type
+Inspected Quantity
+Search Customer
+Supplier
+Search Supplier
+Add PO
+Add Item
+PO Number
+New PO Number
+Search PO Number
+Unable to add PO
+The barcode inputted cannot be found.
+The product category, supplier, factory and customer combination of the PO you just added does not match with the inputted value.
+Multiple Shipment Item Found
+This barcode is include in multiple Shipment Item, select one or more to continue.
+Select Inspection Template
+Understood
+SKU Number
+Select SKU
+New SKU Number
+Search SKU Number
+PO Quantity
+View Details
+Delete Attachment(s)
+Are you sure you want to delete the selected attachment(s)? This action cannot be undone.
+Edit Comment
+Undo
+Redo
+Options Breakdown
+Severity Breakdown
+Code Scanned ({} Scanned)
+Notes/instructions
+Add comment here
+Fail Quantity
+ZT
+Zero Tolerance Failed
+Add Defect
+Add Defect for {}
+Add Color/Size
+Search
+Add test item
+New Test Item
+Test Item Name...
+multiQualityPlanDto not found
+defectDetailsList is null
+{} Total Defect(s)
+Sketch & Defect
+Delete Item
+Are you sure you want to delete the selected test item(s)? This action cannot be undone.
+{} Actual Defect(s)
+Search Defect Name or Code
+Defect Spot
+Rename Test Item
+Decimal
+Fraction
+Enter Notes
+Units Measured
+POM Measured
+Total Measurement Captured
+Mandatory Measurements Remaining
+Sample
+Tolerance
+Intervals:
+Reference Document
+Search Reference Document
+Ref No.
+No Document
+No Location Info
+Signed on: {}
+Your location is out of factory range.
+View My Location
+Clear Signature
+Location Out of Range
+Your current location is out of factory range, please return to the factory area to proceed signing.
+Sign Anyway
+Location Not Loaded Yet
+We are still locating your position. Go back and wait or sign the report anyway.
+Getting location data...
+Successfully located your position
+Failed locating your position
+Total QTY of Measurement Defects
+Total Units with Measurement Defects
+Defect Quantity
+Quality Plan
+Inspector Name
+Quality Plan Summary
+Final Validation
+Defect
+Inspected Qty (Pcs)
+Shipped Quantity Checking
+{} Code Captured
+Scan the Code
+Unsupported conflict type
+Deleted
+No defect found
+No local attachment found
+Resume Editing
+You will remove all signature and require to sign again if you resume editing this report. This cannot be undone.
+Your Answer
+Sample Details
+Carton Sample Details
+No Quality Plan
+Color Size
+Reset Sample Distribution
+Are you sure you want to reset sample distribution? This may affect existing sampling data.
+Do you confirm the changes in sample distribution quantity? This may affect existing sampling data.
+(Manual)
+GPS Range Buffer
+Available apk
+Admin Enable
+Download apk in app
+Concurrent Editing switch
+(amfori) Overall Rating Percentage
+1 Report Per Booking
+>Total Order Quantity
+AQL (Critical)
+AQL (Major)
+AQL (Minor)
+Acceptable
+Acceptable Defects
+Acceptable Rate (%)
+Actions
+Active
+Actual Carton Quantity per Color/Size
+Actual Defects
+Actual Effort (Hours)
+Actual Inspected Quantity
+Actual Packing Production Quantity
+Actual Packing Sample Size
+Actual Quantity per Color/Size
+Add Barcode Scanned
+Add Files
+Add Section
+Add Shared File...
+Add Shipment Items from Vendor PO
+Add to Favorites
+Address
+Aggregate Defect Count to Conclusion
+Aggregate Defect Result
+Aggregated Defect Count
+Allow Realtime Update
+Alt. Currency
+Amend
+Apply Expiry Date By
+Apply Expiry Date Upon
+Apply Overall Rating
+Apply Result Fail if Defect Rate Exceeds
+Apply To
+Approval
+Approve
+Are you sure to refresh the point of measurements & measurement details from the latest item measurement?
+Attachment Type Lookup
+Attachment(s)
+Audit Card Details
+Audit Details
+Audit Expire After (Months)
+Audit Office
+Audit Parties
+Audit Result Book Name
+Audit Template
+Audit Templete Lookup
+Auditor Disclaimer
+Auditor Disclaimer Acceptance
+Auditor Signed Location
+Auditor Signed On
+Auto Apply Expiry Date Setting
+Barcode
+Barcode Comments
+Barcode Result
+Barcode Scanned
+Barcode Summary
+Booking Card Details
+Booking Carton Quantity
+Booking Carton Quantity per Color/Size
+Booking Quantity
+Booking Quantity per Color/Size
+Calculated Cost
+Calculated Defects
+Calculated Inspected Quantity
+Calculated Packing Sample Size
+Cancelled
+Carton Defect Details
+Carton Detail List
+Carton Details
+Carton No. From
+Carton No. To
+Carton Size Breakdown
+Checked Qty
+Checklists
+Checklists Additional Information
+Checklists Details
+Checklists Information
+Child Level
+Classification
+Clear Prices
+Code List Lookup
+Color / Pattern
+Color Chip
+Color(Hex)
+Color/Pattern (name)
+Color/Pattern Image
+Color:
+Column Page:
+Company ID
+Company Name
+Company Type
+Complete Date
+Conclusion Setting
+Condition
+Conditions
+Confirmed
+Contact Department
+Contact Email(s)
+Contact Person Tel
+Contact Person Tel.
+Contact Phone
+Contact Position
+Copy
+Corrective Actions Summary
+Cost
+Cost Additional Information
+Cost Summary
+Costs
+Count
+Country / Location
+Country/Region
+Currency
+Custom
+Custom Action 1
+Custom Export 01
+Custom Print 01
+Custom Status 1
+Customer ID
+Customer Lookup
+Default Actual Sample Size
+Default Calculated Sample Size
+Default Overall Score Weighting
+Default Sampling Rule
+Default Sequence
+Defect AQL (Critical)
+Defect AQL (Major)
+Defect AQL (Minor)
+Defect Actual Sample Size
+Defect Calculated Sample Size
+Defect Critical (Acceptable Defects)
+Defect Critical (Actual Defects)
+Defect Critical (Calculated Defects)
+Defect Inspection Level
+Defect Level
+Defect Major (Acceptable Defects)
+Defect Major (Actual Defects)
+Defect Major (Calculated Defects)
+Defect Minor (Acceptable Defects)
+Defect Minor (Actual Defects)
+Defect Minor (Calculated Defects)
+Defect Rate Denominator (Y)
+Defect Rate Numerator (X)
+Defect Sampling Rule
+Defect Sampling Rule: Allow Realtime Update
+Defect Summary 01
+Defect Summary 02
+Defective Quantity Level
+Define Size
+Delivered Quantity
+Denied Field ID
+Details Additional Information
+Details Information
+Details Score %
+Detele Barcode Scanned
+Disclaimer for Auditor
+Disclaimer for Partner
+Disclaimer for factory
+Disclaimer for inspector
+Display On Cover
+Displaying %from% to %to% of %columnCount%
+Disposition
+Doc. Status
+Download QC pack
+Draft
+Duplicate Window
+EAN Code Report
+EAN Code Summary
+Effective from
+Effective to
+Enable Abort Inspection
+Enabled
+Estimated Effort (Hours)
+Exception
+Exclude in Overall Result Calculation
+Expire After (Months)
+Expiry Date Basis
+Export
+Export to excel
+Facility Type
+Factory Audit Address Lookup by Factory
+Factory Audit Template Lookup
+Factory Auditor Lookup
+Factory Disclaimer
+Factory ID
+Factory Information
+Factory Lookup
+Factory Sign Date
+Factory Signature
+Fail Qty
+Field ID
+File
+File Category
+File Name
+File No.
+File Type
+Files
+Fixed Sample Size
+Flag
+Flagged
+Follow
+Follow-up Audit
+From Score(>=)
+GPS Coordinate Lat
+GPS Coordinate Lng
+GPS coordinate Lat
+GPS coordinate Lng
+General
+Hierarchy
+If the Inspection Report Template is updated, the Sampling Rule, Test Items and Requirements would be changed. Are you sure you want to continue?
+Image Type Lookup
+Images
+Images/Attachments
+In Review
+Inactive
+Initialize CPM
+Initiated
+Inner GTIN
+Inspected Assortment Quantity
+Inspected Carton
+Inspected Carton Quantity
+Inspection Booking
+Inspection Booking Address Lookup by Factory
+Inspection Booking No
+Inspection Booking Parties Lookup
+Inspection Comments
+Inspection Details
+Inspection Level
+Inspection Method
+Inspection Procedure
+Inspection Report Address Lookup by Factory
+Inspection Report No.
+Inspection Report Template Lookup
+Inspection Report Templete Lookup
+Inspection Result
+Inspection Result per Color/Size
+Inspection Summary
+Inspection Template
+Inspection Template Lookup
+Inspection Template Name
+Inspection Templete Lookup
+Inspector Disclaimer
+Inspector Disclaimer Acceptance
+Inspector Sign Date
+Item Color Lookup
+Item Details
+Item Size Lookup
+Item Tags
+Item Type
+Items By Color/Size
+Items by Color/Size
+Last Modified by
+Latest CAPA
+Legend
+Link by
+Linkage Type
+Linkage to Inspection
+Linked Documents
+Lot No.
+Mandatory
+Mandatory field(s) is missing for marking the Inspection Booking(s) to scheduled.
+Mark as
+Max. Score (Total)
+Maximum Score
+Meas.
+Meas. AQL (Critical)
+Meas. AQL (Major)
+Meas. AQL (Minor)
+Meas. Actual Sample Size
+Meas. Calculated Sample Size
+Meas. Critical (Acceptable Defects)
+Meas. Critical (Actual Defects)
+Meas. Critical (Calculated Defects)
+Meas. Inspection Level
+Meas. Major (Acceptable Defects)
+Meas. Major (Actual Defects)
+Meas. Major (Calculated Defects)
+Meas. Minor (Acceptable Defects)
+Meas. Minor (Actual Defects)
+Meas. Minor (Calculated Defects)
+Measurement Result by Size by Color
+Measurement by Size by Color
+Measurements
+Mixed
+Mobile Activities
+Mobile App Settings
+Mobile Inspector App Settings
+More
+Multi-Pack
+Name of Partner Representative
+New Audit
+New Audit Template
+New CAPA Plan
+New Capa Plan
+New Corrective Action Plans
+New Inspect Report
+New Inspection Booking
+New Inspection Report
+New Line
+New Quality Plan Template
+No access right to mark the Inspection Booking to %1$s.
+No access right to remove the Workflow status from the Inspection Booking.
+No access right to update the Inspection Booking as it''s marked as %1$s.
+No access right to update the Inspection Booking.
+No. of Attachments
+No. of Cartons
+Not Available
+Not Packed Qty
+Notes
+Notes / Instructions
+Number of Not Packed Cartons
+Number of Packed Cartons
+Object
+Observations / Comments
+Official
+Only one VPO Shipment Item could be included into one "By Item" Inspection Report.
+Only sample measurement with size detail could be updated into the Measurement Result table, please enter the size.
+Order Carton Quantity per Color/Size
+Order Quantity per Color/Size
+Other
+Other Attachments & Comments
+Others
+Others Table 1
+Outer GTIN
+Overall Defect Rate
+Overall Disposition
+Packed Qty
+Packed Qty in Carton
+Packing Defect Summary
+Packing Defects
+Packing Details
+Packing Name
+Packing Summary
+Packing Type
+Parent Type
+Parties
+Partner Disclaimer
+Partner Disclaimer Acceptance
+Partner ID
+Partner Information
+Partner Signature
+Partner Signed Location
+Partner Signed On
+Partner Type
+Pending Approval
+Planned Inspection Date
+Planned Inspection Date must be two days after the current date.
+Planned Inspection Dates
+Planned Inspection End Date
+Planned Inspection Start Date
+Please select at least one field to batch update.
+Please select at least one record to batch update.
+Please select the Size and Color first.
+Print
+Priority
+Produced Qty
+Product Hierarchy
+Production Ratio (%)
+Quality Plan / Section
+Quality Plan Defect Details
+Quality Plan Sections
+Quality Plan Template
+Quality Plans
+Quantity
+Quantity Per Carton
+Quantity by Size (Color)
+Ref.
+Ref.Key
+Refresh
+Refresh from Latest Item
+Rejection Defects
+Related Activities
+Released Quantity
+Remark
+Report Card Details
+Report Information
+Requested
+Require CAPA
+Require Signature
+Requirement
+Requirements - 2 Details
+Result Summary
+Result Upon Short Qty
+Revising
+Rework
+Risk Rating
+Rule name
+SKU No.
+SKU Tags
+Sampling
+Sampling Method
+Sampling Plan
+Sampling Rule
+Sampling Rule for Defect Details
+Sampling Rule for Measurement
+Sampling Rule: Allow Realtime Update
+Save & Confirm
+Scheduled
+Score (%)
+Scoring
+Scoring Details
+Scorings
+Scorings Additional Information
+Scorings Details
+Scorings Information
+Section Score Weight
+Section Seq No.
+Section Type
+Section/Descripton
+Select Files...
+Select from Booking by Item...
+Select from Booking by Lot...
+Select from Item...
+Select from Vendor PO...
+Select...
+Send to Buyer
+Send to Vendor
+Sequential Inspection
+Shared Files
+Shipment
+Shipment Items from Vendor PO
+Shipment Released Date
+Shipment Tags
+Short Description
+Short Qty Threshold (%)
+Show Defect Rate
+Show Final Validations in Conclusion
+Show Shipped Quantity Check Table
+Show measurement breakdown
+Sign Location
+Signature Info
+Signed Auditor
+Signed Inspector
+Sort Out Quantity
+Sourcing Office / Agency
+Specify if Item Template is Different
+Standard Meas.
+State / Province
+Supplier Audit Address Lookup by Vendor
+Supplier Audit Lookup by Vendor
+Switch Size/Color...
+Tab
+Template Lookup
+Test Item Defects
+Test Items
+Test Request
+The Inspection Report Template for VPO Shipment Item will be removed if the Inspection Format is changed to "By Lot". Are you sure you want to continue?
+The document you updated is not an active document.
+The document you updated is not the latest version.
+The field you updated cannot be empty.
+The measurement details entered will be removed after adding the new Shipment Item(s), are you sure you want to continue?
+The number of documents you selected has exceeded the maximum, please reselect.
+This record is available under the following condition(s).
+To Score(<)
+Tools
+Total Booking Quantity
+Total Cost
+Total Critical
+Total Defective Unit
+Total Failed Quantity
+Total Inspected Packing
+Total Inspected Quantity
+Total Major
+Total Measured Quantity
+Total Minor
+Total Number of Defects
+Total PO Quantity
+Total Packing
+Total Quantity
+Total Released Quantity
+Total Work Time
+Total Work Time(min)
+Town / City
+Type ID
+UPC
+Unfollow
+User Lookup
+VPO Tags
+Vendor Comments
+Vendor ID
+Vendor Lookup
+Vendor Name
+Vendor PO No.
+Ver.
+View
+View CAPA
+Weighted Score (%)
+Weighting
+Where Used
+Work Time
+Work Time(seconds)
+You have selected the same template in other requirement tab. Please select another one.
+ZT / Critical Issue
+[Add]
+[Delete]
+docStatus
+Actual Carton Sample Size
+Add More Photo
+Add New User
+Manage {}
+All Report Version
+All Bookings/Reports
+Booking detail is not available, connect to network and try again.
+Currently Editing
+Observation
+Clear All
+{} Auditors
+{} Inspectors
+{} Viewers
+Report detail is not available, connect to network and try again.
+Disclaimer
+Please note that in order to develop and strengthen a healthy business relationship with our business partners, we have an internal policy, which prohibits our employees from accepting advantages including gifts or favours of any kind from our business partners. We therefore would like to request you to please refrain from offering any gifts or favours to our employees during their upcoming visit to your factory. Your continuing co-operation and support are the most valuable gifts of all. Thank you for your cooperation.請注意，為了與我們的業務夥伴發展和加強健康的業務關係，我們制定了一項內部政策，該政策禁止我們的員工接受利益,包括來自我們業務夥伴的禮物或好處。因此，我們希望您不要在我們的員工訪問您的工廠期間向他們提供任何礼物或利益。您的持續合作與支持是最有價值的禮物。謝謝您的合作。
+Fast Inspection
+Getting Latest Content...
+Getting Latest Report Structure...
+No internet. Check your connection and try again.
+Enable the permission in the Settings to save photos.
+Photos And Videos Permission Denied
+Difference between order & actual quantity exceeds the allowed limit
+AI Risk Rating
+High Risk
+Medium Risk
+Click to view details
+One or more items have risk of failure
+Revert to Round {}
+Start Round {}
+{} selected
+Server not reachable, please check your network.
+Show Pending to Sync Only
+Store Audit
+Switch and manage your accounts here
+Change User
+Sync All
+No booking is downloaded. \n No report is uploaded.
+This Booking Version’s Report(s) Only
+Total Score
+Understand
+Unknown Mode

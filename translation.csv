@@ -1,0 +1,1502 @@
+﻿English,Chinese,Vietnamese
+Inspection Pro Â© {}. Powered by Tradebeyond,检验专业版 © {}. 由 Tradebeyond 提供支持,Inspection Pro Â© {}. Cung cấp bởi Tradebeyond
+Update,更新,Cập nhật
+Inspector,检验员,Thanh tra
+"Camera permission denied message, Please grant permission",相机权限被拒绝，请授予权限,Thông báo quyền truy cập camera bị từ chối. Vui lòng cấp quyền
+Please Scan the Environment Code,请扫描环境代码,Thông báo quyền truy cập camera bị từ chối. Vui lòng cấp quyền
+Invalid Environment Code,环境代码无效,Thông báo quyền truy cập camera bị từ chối. Vui lòng cấp quyền
+Failed to scan QR code,二维码扫描失败,Thông báo quyền truy cập camera bị từ chối. Vui lòng cấp quyền
+Upload from Album,从相册上传,Tải lên từ Album
+Forgot Password?,忘记密码？,Quên mật khẩu?
+Use Your Fingerprint/ Face Recognition to Log in,使用指纹 / 人脸识别登录,Sử dụng vân tay/nhận dạng khuôn mặt để đăng nhập
+Your device support biometric authentication.,您的设备支持生物识别认证。,Thiết bị của bạn hỗ trợ xác thực sinh trắc học.
+Environment Code,环境代码,Mã môi trường
+Username,用户名,Tên người dùng
+Please enter your username,请输入您的用户名,Vui lòng nhập tên người dùng
+Password,密码,Mật khẩu
+Please enter your password,请输入您的密码,Vui lòng nhập mật khẩu
+Error text for user name & password.,用户名或密码错误,Lỗi văn bản cho tên người dùng và mật khẩu.
+Login,登录,Đăng nhập
+Scan your fingerprint (or face or whatever) to authenticate,扫描您的指纹（或人脸等）进行身份验证,Quét dấu vân tay (hoặc khuôn mặt hoặc bất kỳ thứ gì) để xác thực
+Bookings,预约,Đặt lịch
+Reports,报告,Báo cáo
+Sync,同步,Đồng bộ hóa
+LOGOUT,退出登录,ĐĂNG XUẤT
+Today,今天,Hôm nay
+Tomorrow,明天,Ngày mai
+Afterwards,之后,Sau đó
+Past,上次,Trước đó
+Item,产品,Mặt hàng
+Defect Code,缺陷代码,Mã lỗi
+Critical,严重,Nghiêm trọng
+Major,主要,Lớn
+Minor,次要,Nhỏ
+Defective Unit,缺陷单位,Đơn vị bị lỗi
+Total Defective Units,缺陷单位总数,Tổng số đơn vị bị lỗi
+Add New,新增,Thêm mới
+Contact Person,联系人,Người liên hệ
+Go there,前往,Đi đến đó
+Filter,筛选,Lọc
+Clear,清除,Xóa
+Apply,应用,Áp dụng
+Search & Filter,搜索与筛选,Tìm kiếm & Lọc
+Show Date,显示日期,Hiển thị Ngày
+Filter by planned inspection date between:,按计划检验日期筛选：,Lọc theo ngày kiểm tra dự kiến ​​trong khoảng:
+Filter by planned audit date between:,按计划审核日期筛选：,Lọc theo ngày kiểm toán dự kiến ​​trong khoảng:
+Pick Date Range,选择日期范围,Chọn Khoảng Ngày
+Filter by Factory,按工厂筛选,Lọc theo Nhà máy
+Hide report that completed after below day(s),隐藏在以下天数后完成的报告,Ẩn báo cáo đã hoàn thành sau (các) ngày dưới đây
+Outdated Report,过期报告,Báo cáo đã lỗi thời
+Show,显示,Hiển thị
+Hide,隐藏,Ẩn
+Show Status,显示状态,Hiện Trạng Thái
+All Factories,所有工厂,Tất Cả Nhà Máy
+New,新建,Mới
+In Progress,进行中,Đang Tiến Hành
+Signed,已签名,Đã Ký
+Submitted,已提交,Đã Gửi
+Overdue,逾期,Quá Hạn
+Uploaded,已上传,Đã Tải Lên
+Uploading{},上传中 {},Đang Tải Lên{}
+Booking Details,预约详情,Chi Tiết Đặt Hàng
+Data Load Failed,数据加载失败,Tải Dữ Liệu Không Thành Công
+Item No.,产品编号,Mã mặt hàng
+Product Category,产品类别,Danh Mục Sản Phẩm
+VPO No.,交易确认订单（VPO）编号,Mã VPO
+Shipment No.,货运编号,Số Lô Hàng
+Order Quantity,订单数量,Số Lượng Đơn Hàng
+Order Carton Quantity,订单装箱数量,Số Lượng Thùng Đơn Hàng
+Actual Carton Quantity,实际装箱数量,Số Lượng Thùng Thực Tế
+Status,状态,Trạng Thái
+Action,操作,Hành Động
+Set,设置,Đặt
+Item,产品,Mặt Hàng
+No items,无产品,Không có mặt hàng nào
+Create Report,创建报告,Tạo Báo Cáo
+Booking Report,预约报告 ,Báo cáo lịch đặt
+Defect Details,缺陷详情,Chi Tiết Lỗi
+Checklist,检查清单,Danh Sách Kiểm Tra
+CAPA,纠正与预防措施（CAPA）,CAPA
+CAPA,纠正与预防措施（CAPA）,CAPA
+Please enter CAPA for the test item.,请为该测试产品输入CAPA,Vui lòng nhập CAPA cho mặt hàng kiểm tra.
+Review By,审核人,Đánh giá bởi
+Reference,参考,Tham chiếu
+Corrective Action,纠正措施,Hành động khắc phục
+Due Date,截止日期,Ngày đến hạn
+Responsible Person,负责人,Người chịu trách nhiệm
+Status,状态,Trạng thái
+Completion Date,完成日期,Ngày hoàn thành
+Images & Attachments,图片与附件,Hình ảnh & Tệp đính kèm
+Code,代码,Mã
+Summary,总结,Tóm ​​tắt
+Item Name,产品名称 ,Tên mặt hàng
+Item Description,产品描述 ,Mô tả mặt hàng
+AQL Information,抽样检验信息（AQL）,Thông tin AQL
+AQL Info,抽样检验信息（AQL）,Thông tin AQL
+Level,级别,Mức độ
+Critical,严重,Nghiêm trọng
+Major,主要,Lớn
+Minor,次要,Nhỏ
+Measurement Type,测量类型,Loại đo lường
+Measurement Direction,测量方向,Hướng đo lường
+Measurement System,测量系统,Hệ thống đo lường
+Sample Size,样本量,Kích thước mẫu
+Calculated,计算值,Tính toán
+Fixed,固定值,Cố định
+Actual,实际值,Thực tế
+Defective Quantity,缺陷数量,Số lượng lỗi
+Details,详情,Chi tiết
+Defect Summary,缺陷总结,Tóm tắt lỗi
+Accept,接受,Chấp nhận
+Result,结果,Kết quả
+Type,类型,Loại
+Change,更改,Thay đổi
+Format,格式,Định dạng
+Notes/Instructions,备注 / 说明,Ghi chú/Hướng dẫn
+Template,模板,Mẫu
+Planned Date,计划日期,Ngày dự kiến
+Planned Hour,计划时间,Giờ dự kiến
+References,参考信息,Tham chiếu
+Factory Name,工厂名称,Tên nhà máy
+Customer,客户,Khách hàng
+Vendor,供应商,Nhà cung cấp
+Inspector,检验员,Thanh tra
+Coordinator,协调员,Điều phối viên
+All,全部,Tất cả
+All Items,所有产品,Tất cả các mặt hàng
+With Report,有报告,Có báo cáo
+Without Report,无报告,Không có báo cáo
+Delete Report,删除报告,Xóa báo cáo
+Are you sure to delete this report and related attachment(s)? This action cannot be undone.,您确定要删除此报告及相关附件吗？此操作不可撤销。,Bạn có chắc chắn muốn xóa báo cáo này và các tệp đính kèm liên quan không? Hành động này không thể hoàn tác.
+Delete,删除,Xóa
+Cancel,取消,Hủy
+Canceled,取消,Hủy
+SELECT,选择,CHỌN
+Done,完成,Xong
+Confirm,确认,Xác nhận
+No.,编号,Số
+Name,名称,Tên
+Module,模块,Mô-đun
+Ref#,参考编号,Số tham chiếu
+Section,章节,Phần
+Description,描述,Mô tả
+Item No. (Set),产品编号（套装）,Mã số mặt hàng (Bộ)
+Comment,备注,Ghi chú
+Production Quantity,生产数量,Số lượng sản xuất
+Ordered,订购数,Đã đặt hàng
+OK,确定,OK
+Signed Date,签署日期,Ngày ký
+Has not been signed,未签署,Chưa được ký
+Location,地点,Địa điểm
+Factory,工厂,Nhà máy
+Loading...,加载中......,Đang tải...
+Report Load Failed,报告加载失败,Tải báo cáo không thành công
+No inspect items,无检验产品,Không có mặt hàng nào được kiểm tra
+Booking Information,预约信息 ,Thông tin đặt hàng
+Vendor,供应商,Nhà cung cấp
+Customer,客户,Khách hàng
+Inspection Party,检验方,Bên kiểm tra
+Inspection Office,检验办公室,Phòng Kiểm tra
+Carton Result,装箱结果,Kết quả Thùng carton
+Carton Comments,装箱备注,Ghi chú về Thùng carton
+Carton Check,装箱检查,Kiểm tra Thùng carton
+Defect Result,缺陷结果,Kết quả Lỗi
+Defect Comments,缺陷备注,Ghi chú về Lỗi
+Measurement Result,测量结果,Kết quả Đo lường
+Measurement Comments,测量备注,Ghi chú về Đo lường
+{} Result,{} 结果,Kết quả {}
+{} Comments,{} 备注,Ghi chú {}
+Checklist Result,检查清单结果,Kết quả Danh sách Kiểm tra
+Checklist Comments,检查清单备注,Ghi chú Danh sách Kiểm tra
+Overall Result,总体结果,Kết quả tổng thể
+Actual Hours,实际工时,Giờ thực tế
+Inspection Date,检验日期,Ngày Kiểm tra
+Shipment Released,出货放行,Lô hàng đã xuất xưởng
+Fail Reason,失败原因,Lý do không đạt
+Overall Comments,总体备注,Ghi chú Tổng thể
+Sign,签署,Ký 
+Camera,相机,Camera
+Video,视频,Video
+Voice Clip,语音片段,Đoạn ghi âm
+Photo Album,相册,Album Ảnh
+Photo Creation Date,照片创建日期,Ngày Tạo Ảnh
+Critical Level,严重等级,Mức độ Nghiêm trọng
+Add comment,新增备注,Thêm bình luận
+Comment,备注,Bình luận
+View comment,查看备注,Xem bình luận
+Enter comments here,请输入备注,Nhập bình luận tại đây
+Save,保存,Lưu
+Cancel,取消,Hủy
+Rotate image,旋转图片,Xoay ảnh
+Completed,完成,Hoàn thành
+{} on {},{} 于 {},{} trên {}
+Session Expired,会话已过期,Phiên làm việc đã hết hạn
+Item,产品,Mặt hàng
+Sample Tracker,样品追踪,Theo dõi mẫu
+Sample Evaluation,样品评估,Đánh giá mẫu
+Image,图片,Hình ảnh
+Attachment,附件,Đính kèm
+Measurement,测量,Đo lường
+Checklist Summary,检查清单总结,Tóm tắt danh sách kiểm tra
+Label,标签,Nhãn
+Total Count,总计数,Tổng số lượng
+No.,编号,Số
+Item No,产品编号,Mã mặt hàng
+Order Quantity,订单数量,Số lượng đặt hàng
+Actual Quantity,实际数量,Số lượng thực tế
+Are you sure to log out?,您确定要退出登录吗？,Bạn có chắc chắn muốn đăng xuất không?
+All local setting will be wiped out. While the data will be kept until you uninstall the app or clear the data from system setting.,所有本地设置将被清除。但数据将保留，至您卸载应用或从系统设置中清除数据。,Mọi cài đặt cục bộ sẽ bị xóa. Dữ liệu sẽ được lưu giữ cho đến khi bạn gỡ cài đặt ứng dụng hoặc xóa dữ liệu khỏi cài đặt hệ thống.
+No.,编号,Số lượng
+Item No,产品编号,Mã mặt hàng
+Item Name,产品名称,Tên mặt hàng
+Order Quantity,产品名称,Số lượng đặt hàng
+Actual Quantity,实际数量,Số lượng thực tế
+Customer Product No.,客户产品编号,Mã sản phẩm của khách hàng
+Keycode/ Style No.,关键码 / 款号,Mã chính / Mã kiểu dáng
+Calculated Sample Size,计算样本量,Cỡ mẫu đã tính toán
+Calculated Carton Sample Size,计算纸箱抽样量,Cỡ mẫu thùng carton đã tính toán
+Point of Meas.,测量点,Điểm đo
+Std. Meas.,标准测量值,Số đo tiêu chuẩn
+Color,颜色,Màu sắc
+Create sample,创建样品,Tạo mẫu
+Create %s sample(s),创建 %s 个样品,Tạo %s mẫu
+Tol. (+/-),公差（+/-）,Dung sai (+/-)
+Delete Test Item,删除测试产品,Xóa mặt hàng thử nghiệm
+Are you sure to delete this item? This action cannot be undone.,您确定要删除此产品吗？此操作不可撤销。,Bạn có chắc chắn muốn xóa mặt hàng này không? Hành động này không thể hoàn tác.
+Create,创建,Tạo
+Add New,新增,Thêm Mới
+Create New Items,新建产品,Tạo mặt hàng mới
+Enter the name of the test item,请输入测试产品名称,Nhập tên mặt hàng kiểm tra
+UOM,计量单位（UOM）,Đơn vị tính
+Measurement Summary,测量总结,Bảng tổng hợp số đo
+Size,尺码,Kích thước
+Size:,尺码:,Kích thước:
+Style/ Color,款式 / 颜色,Kiểu/Màu sắc
+Measured,已测量,Đã đo
+Failed,不合格,Không đạt
+Total Qty,总数,Tổng số lượng
+Preview,预览,Xem trước
+SAVE / EXPORT,保存 / 导出,LƯU / XUẤT
+SIGN REPORT,签署报告,KÝ BÁO CÁO
+Preview Report,预览报告,Xem trước Báo cáo
+INSPECTION REPORT,检验报告,BÁO CÁO KIỂM TRA
+Printed,已打印,Đã in
+Date,日期,Ngày
+General Information,基本信息,Thông tin Chung
+Site Information,现场信息,Thông tin Địa điểm
+Vendor Information,供应商信息,Thông tin Nhà cung cấp
+Customer Information,客户信息,Thông tin Khách hàng
+Audit Sampling Info,审核抽样信息,Thông tin lấy mẫu kiểm toán
+Headline,标题,Tiêu đề
+Contact Details,联系方式,Thông tin Liên hệ
+Inspection Booking No.,检验预约编号,Số Đặt lịch Kiểm tra
+Inspection Type,检验类型,Loại Kiểm tra
+Actual Quantity,实际数量,Số lượng thực tế
+Sample Quantity,样本数量,Số lượng Mẫu
+Inspection Format,检验格式,Định dạng Kiểm tra
+Inspection Report Template,检验报告模板,Mẫu Báo cáo Kiểm tra
+Shipment Date,货运日期,Ngày Giao hàng
+Failed Reason,失败原因,Lý do Không đạt
+Appearance,外观,Hình thức bên ngoài
+Packing & Packaging,装箱与包装,Đóng gói & Bao bì
+Measurement & On-Site Test,测量与现场测试,Đo lường & Kiểm tra tại chỗ
+Attachments,附件,Tệp đính kèm
+Test Item,测试产品,Mặt hàng kiểm tra
+Seq.,序号,Seq.
+Â©www.tradebeyond.com. All rights reserved,Â© www.tradebeyond.com  版权所有,©www.tradebeyond.com. Bảo lưu mọi quyền
+Outdated,过期,Đã lỗi thời
+Select Defect Code,选择缺陷代码,Chọn Mã lỗi
+Change Type,更改类型,Thay đổi loại
+Change Template,更改模板,Thay đổi Mẫu
+Delete Booking,删除预约,Xóa lịch đặt
+Are you sure to delete this booking and related report(s)? This action cannot be undone.,您确定要删除此预约及相关报告吗？此操作不可撤销。,Bạn có chắc chắn muốn xóa lịch đặt này và (các) báo cáo liên quan không? Hành động này không thể hoàn tác.
+Details,详情,Chi tiết
+no token,无令牌,Không có token
+Sync History List,同步历史列表,Danh sách Lịch sử Đồng bộ
+Sync Details,同步详情,Chi tiết Đồng bộ
+Basic info,基本信息,Thông tin cơ bản
+Booking Summary,预约总结,Tóm tắt lịch đặt
+Booking's Download Status,预约下载状态,Trạng thái tải xuống của lịch đặt
+Report Summary,报告总结,Số lịch đặt đã tải xuống
+Report Upload Status,报告上传状态,Số lịch đặt không tải xuống được
+Sync Start Date Time,同步开始时间,Lịch đặt của tôi
+Sync End Date Time,同步结束时间,Số lịch đặt
+No. of Booking Downloaded,已下载预约数量,Số lịch đặt đã tải xuống
+No. of Booking Failed to download,下载失败预约数量,Số lịch đặt không tải xuống được
+No. of Report Uploaded,已上传报告数量,"Lịch đặt này đã cũ, bạn có muốn chỉnh sửa báo cáo không?"
+No. of Report Not Uploaded,未上传报告数量,Số báo cáo chưa tải lên
+No. of Report Failed to Upload,上传失败报告数量,Số báo cáo không tải lên được
+Server (Environment information),服务器（环境信息）,Máy chủ (Thông tin Môi trường)
+User,用户,Người dùng
+Start Time,开始时间,Thời gian Bắt đầu
+End Time,结束时间,Thời gian Kết thúc
+My Bookings,我的预约,Lịch đặt của tôi
+Success Download,下载成功,Tải xuống thành công
+Failed Download,下载失败,Tải xuống không thành công
+Reports Ready to Upload,待上传报告,Báo cáo sẵn sàng tải lên
+Reports that will not be Uploaded,不上传报告,Báo cáo không được tải lên
+Success Upload,上传成功,Tải lên thành công
+Failed Upload,上传失败,Tải lên không thành công
+Booking No.,检验预约编号,Số lịch đặt
+Version,版本,Phiên bản
+Report No.,报告编号,Số báo cáo
+Status,状态,Trạng thái
+Success,成功,Thành công
+Failed,失败,Không thành công
+Booking date range,预约日期范围,Khoảng thời gian đặt lịch
+Document saved successfully,文档保存成功,Tài liệu đã được lưu thành công
+Warning,警告,Cảnh báo
+"You have turned off mobile data and Wi-Fi, please switch them on and login again",您已关闭移动数据和Wi-Fi，请重新开启并登录,"Bạn đã tắt dữ liệu di động và Wi-Fi, vui lòng bật lại và đăng nhập lại"
+Reminder,提醒,Nhắc nhở
+No internet connection.,无网络连接,Không có kết nối internet.
+"This booking is outdated, do you want to create a report?",此预约已过期，是否要创建报告？,"Lịch đặt này đã cũ, bạn có muốn tạo báo cáo không?"
+Old Version of Booking,旧版本预约,Phiên bản cũ của lịch đặt
+"This booking is outdated, do you want to edit the report?",此预约已过期，是否要编辑报告？,"Lịch đặt này đã cũ, bạn có muốn chỉnh sửa báo cáo không?"
+"Outdated version, click here to latest version",版本已过期，点击此处获取最新版本,"Phiên bản cũ, nhấp vào đây để xem phiên bản mới nhất"
+"Outdated, no longer able to create / amend report",已过期，无法再创建 / 修改报告,"Đã lỗi thời, không thể tạo/sửa báo cáo nữa"
+Front,前面,Mặt trước
+Back,背面,Mặt sau
+Edit,编辑,Chỉnh sửa
+Critical,严重,Nghiêm trọng
+Major,主要,Lớn
+Minor,次要,Nhỏ
+Reset,重置,Đặt lại
+Create Sample,创建样品,Tạo mẫu
+New samples will be created as below:,将按以下方式创建新样品：,Mẫu mới sẽ được tạo như sau:
+Reset Sample Size,重置样本量,Đặt lại kích cỡ mẫu
+Existing measurement records will be cleared after resetting.,重置后将清除现有测量记录。,Các bản ghi đo lường hiện có sẽ bị xóa sau khi đặt lại.
+Reset Actual,重置实际值,Đặt lại thực tế
+Empty List,空列表,Danh sách trống
+Next,下一步,Tiếp theo
+Cannot login with SSO accounts,无法使用SSO账号登录,Không thể đăng nhập bằng tài khoản SSO
+Sampling Details,抽样详情,Chi tiết mẫu
+Sample Size Breakdown,样本量分析,Phân tích Kích thước mẫu
+Color / Size,颜色 / 尺码,Màu sắc / Kích thước
+Close,关闭,Đóng
+Biometric login,生物识别登录,Đăng nhập sinh trắc học
+Enabling biometric login will give you faster access to your information.,启用生物识别登录将加快访问速度。,Bật đăng nhập sinh trắc học sẽ giúp bạn truy cập thông tin nhanh hơn.
+You can turn this feature on or off at any time under Settings.,您可随时在设置中开启或关闭此功能。,Bạn có thể bật hoặc tắt tính năng này bất kỳ lúc nào trong phần Cài đặt.
+Not Now,暂不启用,Không phải bây giờ
+Enable,启用,Bật
+Biometric setup is completed. You can change it on the Settings page.,生物识别设置成功，可在设置中更改。,Thiết lập sinh trắc học đã hoàn tất. Bạn có thể thay đổi trên trang Cài đặt.
+Biometric setup is failed. Please try again.,生物识别设置失败，请重试。,Thiết lập sinh trắc học không thành công. Vui lòng thử lại.
+Incomplete Fields,未完成字段,Các trường chưa hoàn tất
+Please fill in the mandatory field(s).,请填写必填字段。,Vui lòng điền vào các trường bắt buộc.
+Measured Quantity,已测试数量,Số lượng đã đo
+Failed Quantity,不合格数量,Số lượng không thành công
+Checklist Details,检查清单详情,Chi tiết danh sách kiểm tra
+Requirements,要求,Yêu cầu
+Point of Measure,测量点,Điểm đo
+Standard Tol(+/-) Measure,标准公差（+/-）测量,Dung sai tiêu chuẩn (+/-)
+Measurement Details,测量详情,Chi tiết số đo
+"Showing {} Samples,Total {} Samples",显示 {} 个样品，总计 {} 个样品,"Hiển thị {} mẫu, Tổng {} mẫu"
+Settings,设置,Cài đặt
+Account,账户,Tài khoản
+Keep Data Period,数据保留期限,Khoảng thời gian lưu dữ liệu
+Sync History,同步历史,Lịch sử Đồng bộ
+Report,报告,Báo cáo
+Information,信息,Thông tin
+APP Version,应用版本,Phiên bản Ứng dụng
+Logout,退出登录,Đăng xuất
+NO LIMIT,无限制,KHÔNG GIỚI HẠN
+DAY,日,NGÀY
+WEEK,周,TUẦN
+MONTH,月,THÁNG
+YEAR,年,NĂM
+{num} {unit} ,{数字} {单位},{num} {unit}
+Open,打开,Mở
+Show Irrelevant Defects,显示不相关缺陷,Hiển thị lỗi không liên quan
+Show Notes / Instructions on booking card,在预约卡片上显示备注 / 说明,Hiển thị hướng dẫn / ghi chú trên thẻ lịch đặt
+Update Environment,更新环境,Cập nhật Môi trường
+"After updating the environment, the current biometric setting will be cleared, you have to setup the biometric login again. Are you sure to update environment?",更新环境后，当前生物识别设置将被清除，您需要重新设置生物识别登录。是否确认更新？,"Sau khi cập nhật môi trường, cài đặt sinh trắc học hiện tại sẽ bị xóa, bạn phải thiết lập lại đăng nhập sinh trắc học. Bạn có chắc chắn muốn cập nhật môi trường không?"
+Change Username/ Password,更改用户名 / 密码,Thay đổi Tên người dùng/Mật khẩu
+"After changing the username or password, the current biometric setting will be cleared, you have to setup the biometric login again. Are you sure to change username or password?",更改用户名或密码后，当前生物识别设置将被清除，您需要重新设置生物识别登录。是否确认更改？,"Sau khi thay đổi tên người dùng hoặc mật khẩu, thiết lập sinh trắc học hiện tại sẽ bị xóa, bạn phải thiết lập lại đăng nhập sinh trắc học. Bạn có chắc chắn muốn thay đổi tên người dùng hoặc mật khẩu không?"
+Change,更改,Thay đổi
+"When items in Defect Details do not have any defects/ attachments/ comments, they will be hidden on the Preview page and will not upload to the web.",当产品缺陷详情中无任何缺陷 / 附件 / 备注时，将在预览页面隐藏，并不会上传至网站,"Khi các mục trong Chi tiết Lỗi không có bất kỳ lỗi/tệp đính kèm/bình luận nào, chúng sẽ bị ẩn trên trang Xem trước và sẽ không được tải lên web."
+"When turn on, the ""Notes / Instructions"" value in booking will be shown on Booking Card.",开启/启用后，预约中的“备注 / 说明”将显示在预约卡片上。,"Khi bật, giá trị ""Ghi chú/Hướng dẫn"" trong đặt lịch sẽ được hiển thị trên thẻ đặt lịch."
+No Booking,无预约,Không có lịch đặt
+No Report,无报告,Không có báo cáo
+"Download bookings by clicking on ""Sync"" or clear the filter",请点击“同步”下载预约或清除筛选,"Tải lịch đặt bằng cách nhấp vào ""Đồng bộ hóa"" hoặc xóa bộ lọc"
+No Internet,无网络,Đánh giá tổng thể
+Observations,观察项,Quan sát
+Date,日期,Ngày
+Report is signed,报告已签署,Báo cáo đã được ký
+Editing this report will clear the signatures and change the status to â€œIn progressâ€. Continue?,编辑此报告将清除签名并将状态更改为“进行中”。是否继续？,"Việc chỉnh sửa báo cáo này sẽ xóa chữ ký và chuyển trạng thái thành ""Đang xử lý"". Tiếp tục?"
+Severity,严重程度,Mức độ nghiêm trọng
+Status Score,状态评分,Điểm trạng thái
+Max Score,最高分,Điểm tối đa
+% of Score,评分百分比,Phần trăm điểm số
+Scoring (%),评分（%）,Điểm số (%)
+Status Score(Total),状态评分（总计）,Điểm trạng thái (Tổng)
+Maximum Score (Total),最高评分（总计）,Điểm tối đa (Tổng)
+Overall Score (%),总体评分（%）,Điểm tổng thể (%)
+Overall Rating,总体评级,Đánh giá tổng thể
+Overall Rating not available,未获得总体评级,-
+Where to find the QR?,二维码位置,Tìm mã QR ở đâu?
+Where to find the QR,二维码位置,Tìm mã QR ở đâu
+"The QR should be provided by your company technical team.
+
+And its purpose is to allow your Inspector app to connect to your company system accordingly.","二维码应由贵公司技术团队提供。
+
+其目的是让检验员应用能够相应地连接到贵公司系统。","Mã QR phải do đội ngũ kỹ thuật của công ty bạn cung cấp.
+
+Và mục đích của mã này là cho phép ứng dụng Inspector của bạn kết nối với hệ thống của công ty."
+OR,或,HOẶC
+Add new item,新增产品,Thêm mặt hàng mới
+Items,产品,Mặt hàng
+Report Preview,报告预览,Xem trước báo cáo
+Default Empty Defect Details,缺陷详情为空（默认）,Chi tiết lỗi mặc định để trống
+Upload Files,上传文件,Tải tệp lên
+Cancel re-login,取消重新登录,Hủy đăng nhập lại
+Share File,共享文件,Chia sẻ tệp
+Colorway/Option,配色 / 选项,Màu sắc / Phiên bản
+Location Permission Required,位置权限请求,Cần cấp quyền định vị
+"To ensure accurate audit and track record, we kindly request you to grant location permission. 
+Please go to your device's settings and enable location services for a seamless quality check process.",为确保准确的审核与追踪记录，请授予位置权限。请前往设备设置并启用定位服务，以保证质检过程顺畅。,"Để đảm bảo việc kiểm tra và theo dõi chính xác, chúng tôi đề nghị bạn cấp quyền định vị.
+
+Vui lòng vào cài đặt của thiết bị và bật dịch vụ định vị để quá trình kiểm tra chất lượng diễn ra suôn sẻ."
+Location service Required,位置服务请求,Cần cấp quyền định vị
+"To ensure accurate audit and track record, we kindly request you to turn on location service. 
+Please go to your device's settings and enable location services for a seamless quality check process.",为确保准确的审核与追踪记录，请授予位置权限。请前往设备设置并启用定位服务，以保证质检过程顺畅。,"Để đảm bảo việc kiểm tra và theo dõi chính xác, chúng tôi đề nghị bạn bật dịch vụ định vị.
+
+Vui lòng vào cài đặt của thiết bị và bật dịch vụ định vị để quá trình kiểm tra chất lượng diễn ra suôn sẻ."
+This booking is not the latest version. Would you like to create or edit the report?,此预约不是最新版本，是否创建或编辑报告？,Lịch đặt này không phải là phiên bản mới nhất. Bạn có muốn tạo hoặc chỉnh sửa báo cáo không?
+Planned Inspection Date Has Passed,计划检验日期已过,Ngày kiểm tra dự kiến ​​đã qua
+The planned inspection date for this booking has passed. Would you like to create or edit the report?,计划检验日期已过，是否创建或编辑报告？,Ngày kiểm tra dự kiến ​​cho lần đặt lịch này đã qua. Bạn có muốn tạo hoặc chỉnh sửa báo cáo không?
+"When the defect details report is empty, you have to add the test items that are defined in the report template or create new test items to it.",当缺陷详情为空时，您需在报告模板中添加定义的测试产品或新建测试产品。,"Khi báo cáo chi tiết lỗi trống, bạn phải thêm các mục kiểm tra được xác định trong mẫu báo cáo hoặc tạo các mục kiểm tra mới vào đó."
+Camera Permission Denied,相机权限被拒绝,Quyền truy cập máy ảnh bị từ chối
+"You have blocked camera access. To scan QR code, please go to Settings to enable it.",您已禁用相机访问。若需扫描二维码，请前往设置中启用。,"Bạn đã chặn quyền truy cập máy ảnh. Để quét mã QR, vui lòng vào Cài đặt để bật."
+Enable the permission in the Settings to take photos.,请在设置中启用权限以拍照。,Bật quyền chụp ảnh trong Cài đặt.
+Album Permission Denied,相册权限被拒绝,Quyền truy cập album bị từ chối
+Enable the permission in the Settings to upload photos.,请在设置中启用权限以上传照片。,Bật quyền tải ảnh lên trong Cài đặt.
+Microphone Permission Denied,麦克风权限被拒绝,Quyền truy cập micrô bị từ chối
+Enable the permission in the Settings to record voice.,请在设置中启用权限以录音。,Bật quyền ghi âm giọng nói trong Cài đặt.
+No GPS Coord.,无GPS坐标,Không có tọa độ GPS.
+Image,图片,Hình ảnh
+Attachment Quality,附件质量,Chất lượng tệp đính kèm
+Standard,标准,Tiêu chuẩn
+"High (Slower, more data)",高质量（较慢，更多数据）,"Cao (Chậm hơn, nhiều dữ liệu hơn)"
+Original (No change),原始（无压缩）,Bản gốc (Không thay đổi)
+Details,详情,Chi tiết
+ ...more,更多......,...thêm
+Upload File,上传文件,Tải tệp lên
+Signed Location,签名位置,Vị trí đã ký
+Your Account has been Blocked,您的账户已被锁定,Tài khoản của bạn đã bị chặn
+You have reached the maximum number of invalid sign-in attempts. Please update your password on CBX server to unblock account.,因多次登录失败，您的账户已被锁定。请在CBX服务器更新密码以解锁。,Bạn đã đạt đến số lần đăng nhập không hợp lệ tối đa. Vui lòng cập nhật mật khẩu trên máy chủ CBX để bỏ chặn tài khoản.
+This feature helps to speed up the upload time and reduce data consumption. The attachments will be compressed upon creation.,此功能可加快上传速度并减少数据使用量，附件将在创建时压缩。,Tính năng này giúp tăng tốc thời gian tải lên và giảm mức tiêu thụ dữ liệu. Tệp đính kèm sẽ được nén khi tạo.
+Inspection,检验,Kiểm tra
+Product Inspection Bookings & Reports,产品检验预约与报告,Đặt lịch & Báo cáo Kiểm tra Sản phẩm
+Audit,审核,Kiểm toán
+Factory Audits & Reports,工厂审核与报告,Kiểm toán & Báo cáo Nhà máy
+Back to Login,返回登录,Quay lại Đăng nhập
+Select Your Role,选择角色,Chọn Vai trò của bạn
+Audits,审核,Kiểm toán
+No Audits,无审核,Không có Kiểm toán
+Download audits by clicking on â€œSyncâ€ or clear the filter,请点击“同步”下载审核或清除筛选,"Tải xuống bản kiểm toán bằng cách nhấp vào ""Đồng bộ hóa"" hoặc xóa bộ lọc"
+Delete Audit,删除审核,Xóa bản kiểm toán
+Are you sure to delete this audit and related report(s)? This action cannot be undone.,您确定要删除此审核及相关报告吗？此操作不可撤销。,Bạn có chắc chắn muốn xóa bản kiểm toán này và (các) báo cáo liên quan không? Hành động này không thể hoàn tác.
+Details,详情,Chi tiết
+Details - 2,详情-2,Chi tiết - 2
+Details - 3,详情-3,Chi tiết - 3
+Details - 4,详情-4,Chi tiết - 4
+Details - 5,详情-5,Chi tiết - 5
+Last Updated: ,最后更新：,Cập nhật lần cuối:
+Report No.,报告编号,Số báo cáo
+Audit Type,审核类型,Loại kiểm toán
+Auditor,审核员,Kiểm toán viên
+Partner Name,合作伙伴名称,Tên đối tác
+Facility Address,设施地址,Địa chỉ cơ sở
+Contact Number,联系电话,Số điện thoại liên hệ
+Contact Email,联系邮箱,Email liên hệ
+Status Score (Total),状态评分（总分）,Điểm Trạng thái (Tổng)
+Maximum Score (Total),最高评分（总分）,Điểm Tối đa (Tổng)
+Overall Score (%),总体评分（%）,Điểm Tổng thể (%)
+Overall Rating,总体评级,Đánh giá Tổng thể
+Audit Result,审核结果,Kết quả Kiểm toán
+Zero Tolerance Failure,零缺陷,Lỗi nghiêm trọng – không chấp nhận
+Sign Here,请在此处签名,Ký tại đây
+Planned Audit Date,计划审核日期,Ngày Kiểm toán Dự kiến
+Audit Date,审核日期,Ngày Kiểm toán
+Report Date,报告日期,Ngày Báo cáo
+Expiry Date,到期日期,Ngày Hết hạn
+Are you sure you want to resume the report? All signatures will be erased and need to sign again after resume.,您确定要恢复该报告吗？恢复后所有签名将被清除，需重新签署。,Bạn có chắc chắn muốn tiếp tục báo cáo không? Tất cả chữ ký sẽ bị xóa và cần ký lại sau khi tiếp tục.
+No Factory Audit is downloaded/uploaded,暂无已下载/上传的工厂审核,Không có Kiểm toán Nhà máy nào được tải xuống/tải lên
+{} Factory Audit(s) downloaded.,已下载 {} 个工厂审核。,{} kiểm toán nhà máy đã được tải xuống 
+{} Factory Audit(s) download failed.,下载 {} 个工厂审核失败。,Tải xuống {} kiểm toán nhà máy không thành công.
+{} Factory Audit(s) uploaded.,已上传 {} 个工厂审核。,{} kiểm toán nhà máy đã được tải lên.
+{} Factory Audit(s) upload failed.,上传 {} 个工厂审核失败。,Tải lên {} kiểm toán nhà máy không thành công.
+"No booking is downloaded.
+No report is uploaded.",未下载任何预约。未上传任何报告。,"Không có lịch đặt nào được tải xuống.
+Không có báo cáo nào được tải lên."
+{} booking(s) downloaded.,已下载 {} 个预约。,{} lịch đặt đã được tải xuống.
+{} booking(s) download failed.,下载 {} 个预约失败。,Tải xuống {} lịch đặt không thành công.
+{} report(s) uploaded.,已上传 {} 份报告。,{} báo cáo đã được tải lên.
+{} report(s) upload failed.,上传 {} 份报告失败。,Tải lên {} báo cáo không thành công.
+No report is downloaded.,未下载任何报告。,Không có báo cáo nào được tải xuống.
+{} report(s) downloaded.,已下载 {} 份报告。,{} báo cáo đã được tải xuống.
+You cannot sign under read mode,您无法在只读模式下签名,Bạn không thể đăng nhập ở chế độ đọc
+Please fill in all required fields highlighted in red before signing.,请在签名前填写所有红色标注必填项。,Vui lòng điền đầy đủ thông tin vào tất cả các trường bắt buộc được đánh dấu màu đỏ trước khi ký.
+Your current location is out of factory range.,您当前位置已超出工厂范围。,Vị trí hiện tại của bạn nằm ngoài phạm vi nhà máy.
+Out of range,超出范围,Nằm ngoài phạm vi
+Attachment Type,附件类型,Loại tệp đính kèm
+Dismiss,忽略,Bỏ qua
+Save,保存,Lưu
+N/A,不适用,N/A
+Sample Size Detail List ({}),样本量详细列表（{}）,Danh sách chi tiết kích cỡ mẫu ({})
+Carton No.,装箱编号,Mã số thùng
+Manual Enter Carton No.,手动输入装箱编号,Nhập mã số thùng thủ công
+Qty Per Carton,每箱数量,Số lượng mỗi thùng
+No. of Carton,装箱数量,Số thùng
+Delivered Qty,交货数量,Số lượng giao hàng
+Insp. Carton Qty,抽检装箱数量,Số lượng thùng kiểm tra
+Insp. Carton,抽检装箱,Thùng kiểm tra
+Calculated Insp. Qty,计算抽检数量,Số lượng kiểm tra tính toán
+Actual Insp. Qty,实际抽检数量,Số lượng kiểm tra thực tế
+Actual Sample Size,实际样本大小,Kích thước mẫu thực tế
+Sort Out Qty,分拣数量,Số lượng phân loại
+Released Qty,放行数量,Số lượng phát hành
+Color/Size,颜色/尺码,Màu sắc/Kích thước
+Color,颜色,Màu sắc
+Select Color/Size,选择颜色/尺码,Chọn màu sắc/Kích thước
+Select Color,选择颜色,Chọn màu sắc
+Select Size,选择尺码,Chọn Kích thước
+Expand All,展开全部,Mở rộng tất cả
+Collapse All,折叠全部,Thu gọn tất cả
+Total,总计,Tổng cộng
+Auditor,审核员,Kiểm toán viên
+Auditor Name,审核员姓名,Tên Kiểm toán viên
+Edit Item,编辑产品,Chỉnh sửa mặt hàng
+Last Modified Date: {},最后修改日期：{},Ngày sửa đổi lần cuối: {}
+Cartons,纸箱,Thùng carton
+Select Carton,选择装箱,Chọn thùng
+Total Cartons,装箱总数,Tổng số thùng
+Fault Type,缺陷类型,Loại lỗi
+Select Fault Type,选择缺陷类型,Chọn loại lỗi
+Status,状态,Trạng thái
+Select Fault Status,选择缺陷状态,Chọn Trạng thái Lỗi
+Qty,数量,Số lượng
+All,全部,Tất cả
+({} selected),（已选择 {}）,({} đã chọn)
+Filtering,筛选中,Lọc
+Filter by,筛选条件,Lọc theo
+Sort by,排序方式,Sắp xếp theo
+Ascending,升序,Tăng dần
+Descending,降序,Giảm dần
+All Color,所有颜色,Tất cả Màu sắc
+No Color,无颜色,Không màu sắc
+Carton Summary,装箱总结,Tóm tắt thùng carton
+Qty of Defects,缺陷数量,Số lượng lỗi
+Total no. Defects,缺陷总数,Tổng số lỗi
+Scoring Summary,评分总结,Tóm tắt điểm số
+Overall Summary,总体总结,Tóm tắt chung
+Packaging Measurement,包装测量,Kích thước bao bì
+Packing,包装,Đóng gói
+Country,国家,Quốc gia
+Description,描述,Mô tả
+Packaging Type,包装类型,Loại bao bì
+Maximum Allowed (%),最大允许（%）,Tỷ lệ tối đa cho phép (%)
+Maximum Allowed (No.) ,最大允许（数量）,Số lượng tối đa cho phép (Số lượng)
+Bypass,跳过,Bỏ qua
+Factory Representative,工厂代表,Đại diện nhà máy
+Factory Representative Name,工厂代表姓名,Tên đại diện nhà máy
+Factory Representative Title,工厂代表职位,Chức danh đại diện nhà máy
+"Please note that in order to develop and strengthen a healthy business relationship with our business partners, we have an internal policy, which prohibits our employees from accepting advantages including gifts or favours of any kind from our business partners. We therefore would like to request you to please refrain from offering any gifts or favours to our employees during their upcoming visit to your factory. Your continuing co-operation and support are the most valuable gifts of all. Thank you for your cooperation.è«‹æ³¨æ„ï¼Œç‚ºäº†èˆ‡æˆ‘å€‘çš„æ¥­å‹™å¤¥ä¼´ç™¼å±•å’ŒåŠ å¼·å¥åº·çš„æ¥­å‹™é—œä¿‚ï¼Œæˆ‘å€‘åˆ¶å®šäº†ä¸€é …å…§éƒ¨æ”¿ç­–ï¼Œè©²æ”¿ç­–ç¦æ­¢æˆ‘å€‘çš„å“¡å·¥æŽ¥å—åˆ©ç›Š,åŒ…æ‹¬ä¾†è‡ªæˆ‘å€‘æ¥­å‹™å¤¥ä¼´çš„ç¦®ç‰©æˆ–å¥½è™•ã€‚å› æ­¤ï¼Œæˆ‘å€‘å¸Œæœ›æ‚¨ä¸è¦åœ¨æˆ‘å€‘çš„å“¡å·¥è¨ªå•æ‚¨çš„å·¥å» æœŸé–“å‘ä»–å€‘æä¾›ä»»ä½•ç¤¼ç‰©æˆ–åˆ©ç›Šã€‚æ‚¨çš„æŒçºŒåˆä½œèˆ‡æ”¯æŒæ˜¯æœ€æœ‰åƒ¹å€¼çš„ç¦®ç‰©ã€‚è¬è¬æ‚¨çš„åˆä½œã€‚",请注意：为了与我们的合作伙伴发展和加强健康的业务关系，我司制定了相关内部政策，明确禁止员工接受来自合作伙伴任何形式的馈赠或好处。 因此，敬请您在我司员工即将到访贵司工厂期间，避免向他们提供任何礼品或利益。 您的持续合作与支持是最有价值的礼物。 感谢您的合作。,"Xin lưu ý rằng để phát triển và củng cố mối quan hệ kinh doanh lành mạnh với các đối tác kinh doanh, chúng tôi có chính sách nội bộ nghiêm cấm nhân viên nhận bất kỳ lợi ích nào, bao gồm quà tặng hoặc ưu đãi dưới bất kỳ hình thức nào từ các đối tác kinh doanh. Do đó, chúng tôi đề nghị quý vị vui lòng không tặng quà hoặc ưu đãi cho nhân viên của chúng tôi trong chuyến thăm sắp tới của họ đến nhà máy của quý vị. Sự hợp tác và hỗ trợ liên tục của quý vị là món quà quý giá nhất. Xin chân thành cảm ơn sự hợp tác của quý vị.n.è«‹æ³¨æ„ï¼Œç‚ºäº†èˆ‡æˆ‘å€‘çš„æ¥­å‹™å¤¥ä¼´ç™¼å±•å’ŒåŠ å¼·å¥åº·çš„æ¥­å‹™é—œä¿‚ï¼Œæˆ‘å€‘åˆ¶å®šäº†ä¸€é …å…§éƒ¨æ”¿ç­–ï¼Œè©²æ”¿ç­–ç¦æ­¢æˆ‘å€‘çš„å“¡å·¥æŽ¥å—åˆ©ç›Š,åŒ…æ‹¬ä¾†è‡ªæˆ‘å€‘æ¥­å‹™å¤¥ä¼´çš„ç¦®ç‰©æˆ–å¥½è™•ã€‚å› æ­¤ï¼Œæˆ‘å€‘å¸Œæœ›æ‚¨ä¸è¦åœ¨æˆ‘å€‘çš„å“¡å·¥è¨ªå•æ‚¨çš„å·¥å» æœŸé–“å‘ä»–å€‘æä¾›ä»»ä½•ç¤¼ç‰©æˆ–åˆ©ç›Šã€‚æ‚¨çš„æŒçºŒåˆä½œèˆ‡æ”¯æŒæ˜¯æœ€æœ‰åƒ¹å€¼çš„ç¦®ç‰©ã€‚è¬è¬æ‚¨çš„åˆä½œã€‚"
+No.,编号,STT
+Position,位置,Vị trí
+Select Position,选择位置 ,Chọn vị trí
+Style & Size,款式与尺码,Kiểu dáng & Kích thước
+Select Style & Size,选择款式与尺码,Chọn Kiểu dáng & Kích thước
+Select LSV,选择款式型号,Chọn LSV
+EAN,产品条形码,EAN
+Actual,实际,Thực tế
+Result,结果,Kết quả
+Select Result,选择结果,Chọn kết quả
+EAN Code,EAN 码,Mã EAN
+Production Status,生产状态,Trạng thái sản xuất
+EAN Summary,EAN 总结,Tóm tắt EAN
+Pass,通过,Đạt
+Fail,失败,Không đạt
+Total,总计,Tổng cộng
+Lidl,Lidl,Lidl
+KL,KL,KL
+Measurement result breakdown,测量结果分析,Phân tích kết quả đo
+Measurement Defects Breakdown,测量缺陷分析,Phân tích lỗi đo
+Special Sample Size (Level S-4),特殊样本大小（S-4 级别）,Kích thước mẫu đặc biệt (Cấp S-4)
+to,至,đến
+Borderline,边界线,Đường ranh giới
+Style,款式,Kiểu
+Defect Rate(%),缺陷率（%）,Tỷ lệ lỗi (%)
+Overall,总体,Tổng thể
+Point of Measurements,测量点,Điểm đo
+Save,保存,Lưu
+Code,代码,Mã
+Point of Measurements,测量点,Điểm đo
+Std. Meas.,标准测量值,Số đo tiêu chuẩn
+Tolerance (+),公差（+）,Dung sai (+)
+Tolerance (-),公差（-）,Dung sai (-)
+Scan barcode,扫描条码,Quét mã vạch
+Scan code,扫描代码,Quét mã
+Code Scanned,代码已扫描,Mã đã quét
+Carton Production Quantity,装箱生产数量,Số lượng sản xuất thùng carton
+Carton Sample Size,装箱样本大小,Kích thước mẫu thùng carton
+Packing Production Quantity,包装生产数量,Số lượng sản xuất bao bì
+Packing Sample Size,包装样本大小,Kích thước mẫu bao bì
+Unsaved Changes,未保存更改,Thay đổi chưa lưu
+Unsaved changes will be discarded.,未保存的更改将被丢弃。,Những thay đổi chưa lưu sẽ bị hủy.
+{} Result,{} 结果,{} Kết quả
+{} Comments,{} 备注,{} Bình luận
+EAN Code Result,EAN 码结果,Kết quả mã EAN
+EAN Code Comments,EAN 码备注,Bình luận mã EAN
+Reject,拒收,Từ chối
+Rejected,拒收,Từ chối
+"System can't determine the result by the defective quantity you inputted. It is suggested to change the AQL to Normal AQL, and the new Sample Size will be {}.
+
+Would you like to change the AQL from Reduced to Normal?",系统无法根据您所输入的缺陷数量确定结果。建议将AQL（质量抽样标准） 修改为正常AQL（正常检验水平），新的样本大小为 {}。是否将 AQL 从减量抽样改为正常抽样？,"Hệ thống không thể xác định kết quả dựa trên số lượng lỗi bạn đã nhập. Đề xuất thay đổi AQL thành AQL Bình thường, và Kích thước Mẫu mới sẽ là {}.
+
+
+
+Bạn có muốn thay đổi AQL từ Giảm sang Bình thường không?"
+Defect result is inconclusive,缺陷结果不确定,Kết quả lỗi không rõ ràng
+Change Now,立即更改,Thay đổi ngay
+Pendulum,摇摆抽样,Chế độ kiểm tra dao động (Pendulum) 
+AQL Pendulum changed to Normal. Sample size and Accept (Reject) No. has changed. New sample size is {}.,AQL 已调整为正常水平。样本大小及可接受（拒收）数量已更新。新的样本大小为 {}。,Chế độ AQL chuyển từ Dao động (Pendulum) sang Bình thường (Normal). Kích thước mẫu và số lượng Chấp nhận (Từ chối) đã thay đổi. Kích thước mẫu mới là {}.
+Zero Tole,零公差,Không dung sai (không chấp nhận lỗi)
+Customer PO No.,客户订单号,Mã đơn hàng của khách hàng
+Auto Sync,自动同步,Tự động đồng bộ
+Local Version,本地版本,Phiên bản cục bộ
+Cloud Version,云端版本,Phiên bản đám mây
+Select All,全选,Chọn tất cả
+Last edited by {} â€¢ {},最后编辑人：{} • {},Chỉnh sửa lần cuối bởi {} • {}
+Confirm Sync?,确认同步？,Xác nhận Đồng bộ hóa?
+Selected result will overwrite the cloud saved.,所选结果将覆盖云端保存数据。,Kết quả đã chọn sẽ ghi đè lên dữ liệu đã lưu trên đám mây.
+Conflict(s) detected!,检测到冲突！,Đã phát hiện xung đột!
+The local version and cloud version of report doesnâ€™t match. Please review the conflict(s) before continuing.,本地版本与云端版本不一致，请在继续前检查冲突内容。,Phiên bản cục bộ và phiên bản đám mây của báo cáo không khớp nhau. Vui lòng xem lại xung đột trước khi tiếp tục.
+Conflict pending resolve,冲突待解决,Xung đột đang chờ giải quyết
+Conflict While Syncing,同步时存在冲突,Xung đột trong khi Đồng bộ hóa
+Conflicts detected in the report during reconnection. Review now to resolve them or ignore to work in offline mode and review later.,报告在重新连接时检测到冲突。请立即检查解决，或忽略并在离线模式下稍后处理。,Đã phát hiện xung đột trong báo cáo khi kết nối lại. Xem lại ngay để giải quyết hoặc bỏ qua để làm việc ở chế độ ngoại tuyến và xem lại sau.
+{} Editor,{} 编辑者,{} Biên tập viên
+Review Conflict,查看冲突,Đánh giá xung đột
+No data,无数据,Không có dữ liệu
+Last edited by {} on {},最后编辑人：{} 于 {},Chỉnh sửa lần cuối bởi {} vào {}
+Confirm All Local,确认全部本地,Xác nhận tất cả dữ liệu cục bộ
+Are you sure you want to select all {} values in local and sync?,您确定要选择所有本地 {} 项并进行同步吗？,Bạn có chắc chắn muốn chọn tất cả {} giá trị trong bộ nhớ cục bộ và tiến hành đồng bộ không?
+Confirm All Cloud,确认全部云端版本,Xác nhận tất cả dữ liệu trên đám mây
+Are you sure you want to select all {} values in cloud and sync?,您确定要选择所有云端 {} 项并进行同步吗？,Bạn có chắc chắn muốn chọn tất cả {} giá trị trên đám mây và tiến hành đồng bộ không?
+Confirm Changes,确认更改,Xác nhận thay đổi
+Do you confirm to sync with the selected values? This action cannot be undone.,是否确认按所选值进行同步？此操作不可撤销。,Bạn có xác nhận đồng bộ hóa với các giá trị đã chọn không? Hành động này không thể hoàn tác.
+Confirm & Sync,确认并同步,Xác nhận & Đồng bộ
+Standard : {},标准：{},Tiêu chuẩn: {}
+Tolerance : {},公差：{},Dung sai: {}
+Load fail...,加载失败……,Tải không thành công...
+Review,审核,Xem lại
+Ignore,忽略,Bỏ qua
+Grid View,网格视图,Chế độ xem dạng lưới
+No File yet,暂无文件,Chưa có tệp nào
+New Folder,新建文件夹,Thư mục mới
+Photo,照片,Ảnh
+Video,视频,Video
+Audio,音频,Âm thanh
+Media Library,媒体库,Thư viện phương tiện
+Document,文档,Tài liệu
+URL,网址,URL
+Edit,编辑,Chỉnh sửa
+Done,完成,Xong
+Stop to Save Recording,停止保存录音,Dừng để lưu bản ghi
+Press to Record Audio,按下录制音频,Nhấn để ghi âm
+Select,选择,Chọn
+Cancel,取消,Hủy
+Confirm Delete,确认删除,Xác nhận xóa
+Attachment will be deleted and this cannot be undone.,附件将被删除，且此操作不可撤销。,Tệp đính kèm sẽ bị xóa và không thể hoàn tác.
+Delete,删除,Xóa
+Audit Party,审核方,Bên kiểm tra
+Reference Data,参考数据,Dữ liệu tham chiếu
+Last Synced,上次同步时间,Đồng bộ lần cuối
+Add URL,添加网址,Thêm URL
+Add,添加,Thêm
+Show Column,显示列,Hiển thị cột
+Show,显示,Hiển thị
+All Result,所有结果,Tất cả kết quả
+Comments,备注,Nhận xét
+All conflicts have been resolved. Please click 'Sync' to proceed.,所有冲突已解决，请点击“同步”继续。,Tất cả xung đột đã được giải quyết. Vui lòng nhấp vào 'Đồng bộ' để tiếp tục.
+Click here to open file,点击此处打开文件,Nhấp vào đây để mở tệp
+Click here to open link in browser,点击此处在浏览器中打开链接,Nhấp vào đây để mở liên kết trong trình duyệt
+Attachment Details,附件详情,Chi tiết tệp đính kèm
+Maximum file size exceeded,文件大小超出限制,Đã vượt quá kích thước tệp tối đa
+"The file size is {} 
+The default size is {}",文件大小为 {} 默认大小为 {},"Kích thước tệp là {}
+
+Kích thước mặc định là {}"
+Item Code,产品代码,Mã mặt hàng
+Mandatory fields are missing,缺少必填字段,Thiếu các trường bắt buộc
+AQL,AQL（质量抽样标准） ,AQL
+Last Modified on,最后修改时间,Ngày sửa đổi lần cuối
+Report List,报告列表,Danh sách báo cáo
+Item List,产品列表,Danh sách mặt hàng
+Items,产品,Mặt hàng
+Inspection Type,检查类型,Loại kiểm tra
+Template Type,模板类型,Loại mẫu
+Inspector(s),检查员,Người kiểm tra
+Advance Editor,高级编辑器,Trình chỉnh sửa nâng cao
+No Report Yet,暂无报告,Chưa có báo cáo
+Home,主页,Trang chủ
+Info Tag,信息标签,Thẻ thông tin
+Add Tag,添加标签,Thêm thẻ
+Unit of Measure,计量单位,Đơn vị tính
+Tol Unit,公差单位,Đơn vị dung sai
+Options,选项,Tùy chọn
+All {},所有 {},Tất cả {}
+No {},无 {},Không {}
+-None-,-无-,-Không có-
+None,无,Không có
+...More,……更多,...Thêm
+Duplicate,重复,Trùng lặp
+"Duplicate Code is found in POM, please remove the duplicate one and try again.",在测量点（POM）中发现重复代码，请删除重复项后重试。,"Tìm thấy mã trùng lặp trong POM, vui lòng xóa mã trùng lặp và thử lại."
+Delete POM,删除 POM,Xóa POM
+You just deleted all POMs for the measurement type. You will not be able to see this measurement type if once confirmed.,您刚刚删除了该测量类型的所有测量点。一旦确认，您将无法再查看此测量类型。,Bạn vừa xóa tất cả POM cho loại đo lường. Bạn sẽ không thể thấy loại đo lường này nếu đã xác nhận.
+Please fill in the Code and try again.,请填写代码后重试。,Vui lòng điền Mã và thử lại.
+Split,拆分,Tách rời
+A potential need for Split Inspection,可能需要拆分检验,Có thể cần Kiểm tra Tách rời
+"For the item was spin off, the item will be sorted out completely.",该产品将被完全剔除。,"Đối với mặt hàng đã tách rời, mặt hàng sẽ được phân loại hoàn toàn."
+Item,产品,Mặt hàng
+Color/Size,颜色/尺码,Màu sắc/Kích thước
+Delivered Qty,交货数量,Số lượng giao hàng
+No. of Defect,缺陷数量,Số lỗi
+Final Inspection,最终检验,Kiểm tra cuối cùng
+Your account does not have the Inspectors or Auditors role assigned.,您的账号未分配“检查员”或“审核员”角色。,Tài khoản của bạn chưa được chỉ định vai trò Thanh tra hoặc Kiểm toán viên.
+Inspection Date,检验日期,Ngày kiểm tra
+Audit Date,审核日期,Ngày kiểm toán
+Past & Next 7 Days,过去及未来 7 天,7 ngày trước và tiếp theo
+Past & Next 30 Days,过去及未来 30 天,30 ngày trước và tiếp theo
+Select Specific Range,选择特定范围,Chọn phạm vi cụ thể
+Factory,工厂,Nhà máy
+Total Order Quantity,订单总数量,Tổng số lượng đặt hàng
+Total Actual Quantity,实际总数量,Tổng số lượng thực tế
+Quantity Difference,数量差异,Chênh lệch số lượng
+Critical,严重,Nghiêm trọng
+Major,主要,Lớn
+Minor,次要,Nhỏ
+Header,标题,Tiêu đề
+Items/SKUs,产品/SKU,Mặt hàng/SKU
+Reports,报告,Báo cáo
+No Report,暂无报告,Không có báo cáo
+Item Table,产品表,Bảng mặt hàng
+Inspector Signature,检查员签名,Chữ ký Thanh tra
+Auditor Signature,审核员签名,Chữ ký Kiểm toán viên
+Factory Rep Signature,工厂代表签名,Chữ ký Đại diện Nhà máy
+Signature,签名,Chữ ký
+Click here to Sign,点击此处签名,Nhấp vào đây để ký
+"Complete above mandatory
+       field before signing",请先完成以上必填项，然后再签名,"Hoàn thành trường bắt buộc ở trên
+
+trước khi ký"
+Are you sure you want to discard your changes? Any unsaved changes will be lost.,您确定要放弃更改吗？任何未保存的更改将丢失。,Bạn có chắc chắn muốn hủy bỏ các thay đổi của mình không? Mọi thay đổi chưa lưu sẽ bị mất.
+Discard Changes,放弃更改,Hủy bỏ các thay đổi
+Discard,放弃,Hủy bỏ
+Abort Inspection,中止检验,Hủy bỏ Kiểm tra
+Abort Reason,中止原因,Lý do Hủy bỏ
+Report successfully submitted.,报告已成功提交。,Báo cáo đã gửi thành công.
+Report initialization Failed :{},报告初始化失败：{},Khởi tạo báo cáo không thành công:{}
+Select,选择,Chọn
+Included Item(s),包含产品,Các mặt hàng bao gồm
+% Adjust Quality Plan Weighting,调整质量计划权重 %,% Điều chỉnh Trọng số Kế hoạch Chất lượng
+Scoring Weighting,评分权重,Trọng số Điểm
+{}% Exceeds,{}% 超出,{}% Vượt quá
+{}% Distributed â€¢ {}% Left,{}% 已分配 • {}% 剩余,{}% Đã phân phối • {}% Còn lại
+All Distributed,已全部分配,Tất cả đã phân phối
+Conclusion,结论,Kết luận
+No audit,暂无审核,Không có kiểm toán
+Audit pending to sync,待同步审核,Kiểm toán đang chờ đồng bộ
+Report pending to sync,待同步报告,Báo cáo đang chờ đồng bộ
+{} Report(s) pending to sync,{} 份报告待同步,{} Báo cáo đang chờ đồng bộ
+Submit,提交,Gửi
+Finish current section before going to next one,请完成当前章节后再进入下一章节,Hoàn tất phần hiện tại trước khi chuyển sang phần tiếp theo
+Next Section:  {},下一章节：{},Phần tiếp theo: {}
+Reconnected to Internet.,已重新连接网络。,Đã kết nối lại Internet.
+No Internet connection. Changes will sync after reconnecting.,无网络连接。更改将在重新连接后同步。,Không có kết nối Internet. Các thay đổi sẽ được đồng bộ sau khi kết nối lại.
+Section,章节,Phần
+Offline,离线,Ngoại tuyến
+Start Report,开始报告,Bắt đầu Báo cáo
+Search Item,搜索产品,Tìm kiếm mặt hàng
+Search Reports,搜索报告,Tìm kiếm Báo cáo
+Search Header,搜索标题,Tiêu đề Tìm kiếm
+Please select item(s) to proceed.,请选择产品以继续。,Vui lòng chọn (các) mặt hàng để tiếp tục.
+Duplicate Report(s),重复报告,Báo cáo trùng lặp
+One or more of the items youâ€™ve selected already have report(s). View existing report or continue to create new ones.,您选择的一个或多个产品已存在报告。可查看已有报告，或继续新建。,Một hoặc nhiều mặt hàng bạn đã chọn đã có báo cáo. Xem báo cáo hiện có hoặc tiếp tục tạo báo cáo mới.
+Create Anyway,仍要创建,Vẫn tạo
+View Report(s),查看报告,Xem Báo cáo
+Search List,搜索列表,Danh sách Tìm kiếm
+Reset Result,重置结果,Đặt lại Kết quả
+Enter at least 3 letters to search,请输入至少三个字母进行搜索,Nhập ít nhất 3 ký tự để tìm kiếm
+No Search Result,无搜索结果,Không có kết quả tìm kiếm
+Create Inspection,新建检验,Tạo kiểm tra
+Invalid template.,无效模板。,Mẫu không hợp lệ.
+Scan/Search Code,扫描/搜索代码,Quét/Tìm kiếm mã
+Information below will be automatically filled if a match is found. Or you can input the information manually.,如有匹配结果，以下信息将自动填写。否则您也可手动输入。,Thông tin bên dưới sẽ được tự động điền nếu tìm thấy kết quả khớp. Hoặc bạn có thể nhập thông tin thủ công.
+Scan Code,扫描代码,Quét mã
+Enter Barcode,输入条码,Nhập mã vạch
+Report Type,报告类型,Loại báo cáo
+Product Category,产品类别,Danh mục sản phẩm
+Inspected Quantity,检验数量,Số lượng đã kiểm tra
+Customer,客户,Khách hàng
+Search Customer,搜索客户,Tìm kiếm khách hàng
+Supplier,供应商,Nhà cung cấp
+Search Supplier,搜索供应商,Tìm kiếm nhà cung cấp
+Add PO,添加订单,Thêm đơn đặt hàng
+Add Item,添加产品,Thêm mặt hàng
+PO Number,订单号,Số đơn đặt hàng
+New PO Number,新订单号,Số đơn đặt hàng mới
+Search PO Number,搜索订单号,Tìm kiếm số đơn đặt hàng
+Unable to add PO,无法添加订单,Không thể thêm đơn đặt hàng
+The barcode inputted cannot be found.,输入条码不存在。,Không tìm thấy mã vạch đã nhập.
+"The product category, supplier, factory and customer combination of the PO you just added does not match with the inputted value.",您所添加订单的产品类别、供应商、工厂与客户信息不匹配。,"Danh mục sản phẩm, nhà cung cấp, nhà máy và khách hàng của đơn đặt hàng bạn vừa thêm không khớp với giá trị đã nhập."
+Multiple Shipment Item Found,发现多个货运产品,Đã tìm thấy nhiều mặt hàng trong lô hàng
+"This barcode is include in multiple Shipment Item, select one or more to continue.",此条码包含在多个出货产品中，请选择一个或多个以继续。,"Mã vạch này nằm trong nhiều mặt hàng trong lô hàng, hãy chọn một hoặc nhiều mặt hàng để tiếp tục."
+Select Inspection Template,选择检验模板,Chọn mẫu kiểm tra
+Understood,已了解,Đã hiểu
+Report Date,报告日期,Ngày báo cáo
+SKU Number,SKU 编号,Mã số SKU
+Select SKU,选择 SKU,Chọn SKU
+New SKU Number,新 SKU 编号,Mã số SKU mới
+Search SKU Number,搜索 SKU 编号,Tìm kiếm số SKU
+PO Quantity,订单数量,Số lượng đơn đặt hàng
+View Details,查看详情,Xem chi tiết
+Delete Attachment(s),删除附件,Xóa tệp đính kèm
+Are you sure you want to delete the selected attachment(s)? This action cannot be undone.,您确定要删除所选附件吗？此操作不可撤销。,Bạn có chắc chắn muốn xóa tệp đính kèm đã chọn không? Hành động này không thể hoàn tác.
+Edit Comment,编辑备注,Chỉnh sửa Bình luận
+Undo,撤销,Hoàn tác
+Redo,重做,Làm lại
+Options Breakdown,选项分析,Phân tích Tùy chọn
+Severity Breakdown,严重程度分析,Phân tích Mức độ Nghiêm trọng
+Code,代码,Mã
+Scan Code,扫描代码,Quét Mã
+Code Scanned ({} Scanned),已扫描代码（共 {} 个）,Mã đã quét (Đã quét {})
+Notes/instructions,备注/说明,Ghi chú/hướng dẫn
+Add comment here,在此添加备注,Thêm bình luận tại đây
+Fail Quantity,不合格数量,Số lượng Lỗi
+Critical,严重,Nghiêm trọng
+Major,主要,Lớn
+Minor,次要,Nhỏ
+ZT,零容忍（ZT）,ZT
+Zero Tolerance Failed,零容忍不合格,Không đạt – Lỗi không dung sai
+Add Defect,添加缺陷,Thêm Lỗi
+Add Defect for {},为 {} 添加缺陷,Thêm Lỗi cho {}
+Add Color/Size,添加颜色/尺码,Thêm Màu/Kích thước
+Search,搜索,Tìm kiếm
+Add test item,添加测试产品,Thêm mặt hàng kiểm tra
+Search List,搜索列表,Danh sách Tìm kiếm
+New Test Item,新建测试产品,Mặt hàng kiểm tra mới
+Test Item Name...,测试产品名称……,Tên mặt hàng kiểm tra…
+multiQualityPlanDto not found,未找到 multiQualityPlanDto ,multiQualityPlan không tìm thấy
+defectDetailsList is null,defectDetailsList 为空,defectDetailsList là null
+{} Total Defect(s),共 {} 个缺陷,{} Tổng số Lỗi
+Sketch & Defect,草图与缺陷,Bản phác thảo & Lỗi
+Delete Item,删除产品,Xóa mặt hàng
+Are you sure you want to delete the selected test item(s)? This action cannot be undone.,您确定要删除所选测试产品吗？此操作不可撤销。,Bạn có chắc chắn muốn xóa (các) mặt hàng kiểm tra đã chọn không? Hành động này không thể hoàn tác.
+{} Actual Defect(s),{} 个实际缺陷,{} Lỗi thực tế
+Search Defect Name or Code,搜索缺陷名称或代码,Tìm kiếm Tên hoặc Mã Lỗi
+Defect Spot,缺陷位置,Vị trí Lỗi
+Rename Test Item,重命名测试产品,Đổi tên mặt hàng kiểm tra
+Decimal,小数,Số thập phân
+Fraction,分数,Phân số
+Enter Notes,请输入备注,Nhập ghi chú
+Units Measured,已测量单位数,Đơn vị đo được
+POM Measured,已测量测点,POM đo được
+Total Measurement Captured,已捕获测量总数,Tổng số đo được ghi lại
+Mandatory Measurements Remaining,剩余必测项,Số phép đo bắt buộc còn lại
+Sample,样品,Mẫu
+Standard,标准,Tiêu chuẩn
+Tolerance,公差,Dung sai
+Critical,严重,Nghiêm trọng
+Major,主要,Lớn
+Minor,次要,Nhỏ
+Measured,已测量,Đã đo được
+Failed,不合格,Không đạt
+Intervals:,区间：,Khoảng thời gian:
+Reference Document,参考文档,Tài liệu tham khảo
+Search Reference Document,搜索参考文档,Tìm kiếm tài liệu tham khảo
+Ref No.,参考编号,Số tham chiếu
+Section,章节,Phần
+Description,描述,Mô tả
+No Document,暂无文档,Không có tài liệu
+No Location Info,无位置信息,Không có thông tin vị trí
+Signed on: {},签署时间：{},Đã ký vào: {}
+Your location is out of factory range.,您当前位置已超出工厂范围。,Vị trí của bạn nằm ngoài phạm vi nhà máy.
+View My Location,查看我的位置,Xem vị trí của tôi
+Clear Signature,清除签名,Xóa chữ ký
+Location Out of Range,位置超出范围,Vị trí nằm ngoài phạm vi nhà máy
+"Your current location is out of factory range, please return to the factory area to proceed signing.",您当前的位置已超出工厂范围，请返回工厂区域后再进行签名。,"Vị trí hiện tại của bạn nằm ngoài phạm vi nhà máy, vui lòng quay lại khu vực nhà máy để tiếp tục ký."
+Sign Anyway,仍然·签署,Vẫn ký
+Location Not Loaded Yet,尚未获取定位,Vị trí chưa được tải
+We are still locating your position. Go back and wait or sign the report anyway.,正在定位中。请返回等待，或仍然签署报告。,Chúng tôi vẫn đang xác định vị trí của bạn. Vui lòng quay lại và chờ hoặc ký báo cáo.
+Back,返回,Quay lại
+Getting location data...,正在获取定位数据……,Đang nhận dữ liệu vị trí...
+Successfully located your position,定位成功,Đã xác định vị trí thành công
+Failed locating your position,定位失败,Không xác định được vị trí
+Total QTY of Measurement Defects,测量缺陷总数,Tổng số lượng lỗi đo lường
+Total Units with Measurement Defects,存在测量缺陷总数,Tổng số đơn vị có lỗi đo lường
+Defect Quantity,缺陷数量,Số lượng lỗi
+Quality Plan,质量计划,Kế hoạch chất lượng
+Inspector,检查员,Người kiểm tra
+Inspector Name,检查员姓名,Tên người kiểm tra
+Quality Plan Summary,质量计划汇总 质量计划总结,Tóm tắt kế hoạch chất lượng
+Final Validation,最终验证,Xác thực cuối cùng
+Defect,缺陷,Lỗi
+Inspected Qty (Pcs),已检查数量（件）,Số lượng đã kiểm tra (Chiếc)
+Shipped Quantity Checking,出货数量检查,Kiểm tra số lượng đã vận chuyển
+{} Code Captured,已捕获 {} 个代码,{} Mã đã thu thập
+Scan the Code,扫描代码,Quét mã
+Unsupported conflict type,不支持的冲突类型,Loại xung đột không được hỗ trợ
+Deleted,已删除,Đã xóa
+No defect found,未发现缺陷,Không tìm thấy lỗi
+No local attachment found,未发现本地附件,Không tìm thấy tệp đính kèm cục bộ
+Resume Editing,继续编辑,Tiếp tục chỉnh sửa
+You will remove all signature and require to sign again if you resume editing this report. This cannot be undone.,如果继续编辑，将清除所有签名并需要重新签署。此操作不可撤销。,Bạn sẽ xóa toàn bộ chữ ký và cần phải ký lại nếu tiếp tục chỉnh sửa báo cáo này. Hành động này không thể hoàn tác.
+Your Answer,您的答案,Câu trả lời của bạn
+Sample Details,样品详情,Chi tiết mẫu
+Carton Sample Details,纸箱样本详情,Chi tiết mẫu thùng carton
+No Quality Plan,暂无质量计划,Không có kế hoạch chất lượng
+Color Size,颜色尺寸,"Màu sắc, kích thước"
+Discard Changes,放弃更改,Hủy thay đổi
+Are you sure you want to discard your changes? Any unsaved changes will be lost.,您确定要放弃更改吗？所有未保存的更改将丢失。,Bạn có chắc chắn muốn hủy thay đổi không? Mọi thay đổi chưa lưu sẽ bị mất.
+Reset Sample Distribution,重置样品分配,Đặt lại phân phối mẫu
+Are you sure you want to reset sample distribution? This may affect existing sampling data.,您确定要重置样品分配吗？此操作可能影响现有抽样数据。,Bạn có chắc chắn muốn đặt lại phân phối mẫu không? Hành động này có thể ảnh hưởng đến dữ liệu mẫu hiện có.
+Confirm Changes,确认更改,Xác nhận thay đổi
+Do you confirm the changes in sample distribution quantity? This may affect existing sampling data.,是否确认样品分配数量的更改？此操作可能影响现有抽样数据。,Bạn có xác nhận những thay đổi về số lượng phân phối mẫu không? Điều này có thể ảnh hưởng đến dữ liệu lấy mẫu hiện có.
+(Manual),（手动）,(Thủ công)
+GPS Range Buffer,GPS 范围缓冲,Bộ đệm Phạm vi GPS
+M,米,M
+Available apk,可用APK安装包,Apk khả dụng
+Admin Enable,管理员启用,Quản trị viên kích hoạt
+Download apk in app,在应用内下载APK安装包,Tải xuống apk trong ứng dụng
+Concurrent Editing switch,并发编辑开关,Công tắc Chỉnh sửa Đồng thời
+(amfori) Overall Rating Percentage,（amfori）总体评分百分比,(amfori) Tỷ lệ đánh giá tổng thể
+1 Report Per Booking,每次预订1份报告,1 báo cáo mỗi lượt đặt lịch
+>Total Order Quantity,>订单总数量,>Tổng số lượng đặt hàng
+AQL (Critical),AQL（严重）,AQL (Nghiêm trọng)
+AQL (Major),AQL（主要）,AQL (Lớn)
+AQL (Minor),AQL（次要）,AQL (Nhỏ)
+Acceptable,可接受,Đạt
+Acceptable Defects,可接受缺陷,Lỗi cho phép
+Acceptable Rate (%),可接受率（%）,Tỷ lệ đạt (%)
+Actions,操作,Hành động
+Active,有效,Đang hoạt động
+Actual Carton Quantity per Color/Size,每个颜色/尺寸的实际纸箱数量,Số lượng thùng thực tế cho mỗi màu/kích cỡ
+Actual Defects,实际缺陷,Lỗi thực tế
+Actual Effort (Hours),实际工时（小时）,Thời gian thực tế (giờ)
+Actual Inspected Quantity,实际检验数量,Số lượng kiểm tra thực tế
+Actual Packing Production Quantity,实际包装生产数量,Số lượng sản phẩm đóng gói thực tế
+Actual Packing Sample Size,实际包装样本大小,Cỡ mẫu đóng gói thực tế
+Actual Quantity per Color/Size,每个颜色/尺寸的实际数量,Số lượng thực tế (Màu/Size)
+Add Barcode Scanned,添加扫描的条形码,Thêm mã vạch đã quét
+Add Files,添加文件,Thêm tệp
+Add Section,添加部分,Thêm phần
+Add Shared File...,添加共享文件...,Thêm tệp được chia sẻ...
+Add Shipment Items from Vendor PO,添加供应商采购订单的装运项目,Thêm mặt hàng từ PO Vendor
+Add to Favorites,添加到收藏夹,Thêm vào yêu thích
+Address,地址,Địa chỉ
+Address2,地址2,Địa chỉ 2
+Address3,地址3,Địa chỉ 3
+Address4,地址4,Địa chỉ 4
+Aggregate Defect Count to Conclusion,将缺陷数量汇总到结论,Tổng số lỗi để đưa ra kết luận
+Aggregate Defect Result,汇总缺陷结果,Kết quả lỗi tổng hợp
+Aggregated Defect Count,汇总的缺陷数量,Tổng số lỗi
+Allow Realtime Update,允许实时更新,Cập nhật thời gian thực
+Alt. Currency,备用货币,Tiền tệ thay thế
+Amend,修改,Sửa đổi
+Apply Expiry Date By,应用到期日依据,Áp dụng ngày hết hạn trước
+Apply Expiry Date Upon,应用到期日时机,Áp dụng ngày hết hạn vào
+Apply Overall Rating,应用整体评分,Áp dụng đánh giá chung
+Apply Result Fail if Defect Rate Exceeds,如果缺陷率有超过，则应用结果不合格,Thất bại nếu tỷ lệ lỗi vượt mức
+Apply To,应用于,Áp dụng cho
+Approval,批准,Phê duyệt
+Approve,批准,Phê duyệt
+Are you sure to refresh the point of measurements & measurement details from the latest item measurement?,您确定要从最新项目测量中刷新测量点和测量详情吗？,Bạn có chắc muốn làm mới điểm đo và chi tiết đo lường từ dữ liệu mẫu mới nhất?
+Attachment Type Lookup,附件类型查找,Tra cứu loại tệp đính kèm
+Attachment(s),附件,Tệp đính kèm
+Audit Card Details,审核卡详情,Chi tiết Thẻ Kiểm toán
+Audit Details,审核详情,Chi tiết kiểm toán
+Audit Expire After (Months),审核有效期（月）,Kiểm toán hết hạn sau (tháng)
+Audit Office,审核办公室,Văn phòng Kiểm toán
+Audit Parties,审核方,Bên kiểm toán
+Audit Result Book Name,审核结果簿名称,Tên sổ kết quả kiểm toán
+Audit Template,审核模板,Mẫu kiểm toán
+Audit Templete Lookup,审核模板查找,Tra cứu mẫu kiểm toán
+Auditor Disclaimer,审核员免责声明,Tuyên bố miễn trừ trách nhiệm của kiểm toán viên
+Auditor Disclaimer Acceptance,审核员免责声明接受,Chấp nhận miễn trừ trách nhiệm (Kiểm toán)
+Auditor Signed Location,审核员签署地点,Địa điểm đã ký của kiểm toán viên
+Auditor Signed On,审核员签署日期,Ngày ký (Kiểm toán viên)
+Auto Apply Expiry Date Setting,自动应用到期日设置,Tự động áp dụng ngày hết hạn
+Barcode,条形码,Mã vạch
+Barcode Comments,条形码注释,Nhận xét mã vạch
+Barcode Result,条形码结果,Kết quả mã vạch
+Barcode Scanned,条形码扫描,Mã vạch đã được quét
+Barcode Summary,条形码摘要,Tóm tắt mã vạch
+Booking Card Details,预订卡详情,Chi tiết thẻ đặt lịch
+Booking Carton Quantity,预订纸箱数量,Số thùng đặt lịch
+Booking Carton Quantity per Color/Size,每个颜色/尺寸的预订纸箱数量,Số thùng đặt lịch theo màu/size
+Booking Quantity,预订数量,Số lượng đặt lịch
+Booking Quantity per Color/Size,每个颜色/尺寸的预订数量,Số lượng đặt lịch theo màu/size
+Calculated Cost,计算成本,Chi phí đã tính
+Calculated Defects,计算缺陷,Lỗi đã tính
+Calculated Inspected Quantity,计算检验数量,Số lượng kiểm tra dự tính
+Calculated Packing Sample Size,计算包装样本大小,Cỡ mẫu đóng gói dự tính
+Cancelled,已取消,Đã hủy
+Carton Defect Details,纸箱缺陷详情,Chi tiết lỗi thùng carton
+Carton Detail List,纸箱详情列表,Danh sách chi tiết thùng carton
+Carton Details,纸箱详情,Chi tiết thùng carton
+Carton No. From,纸箱编号开始于,Số thùng carton từ
+Carton No. To,纸箱编号结束于,Số thùng carton đến
+Carton Size Breakdown,纸箱尺寸明细,Phân loại kích thước thùng carton
+Checked Qty,已检查数量,Số lượng đã kiểm tra
+Checklists,检查清单,Danh sách kiểm tra
+Checklists Additional Information,检查清单附加信息,Danh sách kiểm tra Thông tin bổ sung
+Checklists Details,检查清单详情,Chi tiết danh sách kiểm tra
+Checklists Information,检查清单信息,Thông tin danh sách kiểm tra
+Child Level,子级别,Cấp con
+Classification,分类,Phân loại
+Clear Prices,清除价格,Xóa giá
+Code List Lookup,代码列表查找,Tra cứu danh sách mã
+Color / Pattern,颜色/图案,Màu sắc / Họa tiết
+Color Chip,色卡,Chip màu
+Color(Hex),颜色（十六进制）,Màu (Hệ thập lục phân)
+Color/Pattern (name),颜色/图案（名称）,Màu sắc/Họa tiết (tên)
+Color/Pattern Image,颜色/图案图片,Hình ảnh màu sắc/mẫu
+Color:,颜色：,Màu sắc:
+Column Page:,列页：,Trang cột:
+Company ID,公司ID,ID công ty
+Company Name,公司名称,Tên công ty
+Company Type,公司类型,Loại hình công ty
+Complete Date,完成日期,Ngày hoàn thành
+Conclusion Setting,结论设置,Cài đặt kết luận
+Condition,条件,Điều kiện
+Conditions,条件,Điều kiện
+Confirmed,已确认,Đã xác nhận
+Contact Department,联系部门,Bộ phận liên hệ
+Contact Email(s),联系电子邮件,Địa chỉ email liên hệ
+Contact Person Tel,联系人电话,Người liên hệ (Số điện thoại)
+Contact Person Tel.,联系人电话,Người liên hệ (Số điện thoại):
+Contact Phone,联系电话,Số điện thoại liên hệ
+Contact Position,联系职位,Chức danh liên hệ
+Copy,复制,Sao chép
+Corrective Actions Summary,纠正措施摘要,Tóm tắt biện pháp khắc phục
+Cost,成本,Chi phí
+Cost Additional Information,成本附加信息,Thông tin bổ sung về chi phí
+Cost Summary,成本摘要,Tóm tắt chi phí
+Costs,成本,Chi phí
+Count,计数,Số lượng
+Country / Location,国家/地点,Quốc gia / Vị trí
+Country/Region,国家/地区,Quốc gia/Khu vực
+Currency,货币,Tiền tệ
+Custom,自定义,Tuỳ chỉnh
+Custom Action,自定义操作,Hành động tùy chỉnh
+Custom Export,自定义导出,Xuất khẩu tùy chỉnh
+Custom Print,自定义打印,Bản in tùy chỉnh
+Custom Status,自定义状态,Trạng thái tùy chỉnh
+Customer ID,客户ID,ID Khách hàng
+Customer Lookup,客户查找,Tra cứu khách hàng
+Customer Name,客户名称,Tên khách hàng
+Default Actual Sample Size,默认实际样本大小,Cỡ mẫu thực tế mặc định
+Default Calculated Sample Size,默认计算样本大小,Cỡ mẫu tính toán mặc định
+Default Overall Score Weighting,默认整体分数权重,Trọng số điểm tổng mặc định
+Default Sampling Rule,默认抽样规则,Quy tắc lấy mẫu mặc định
+Default Sequence,默认序列,Trình tự mặc định
+Defect AQL (Critical),缺陷AQL（严重）,AQL lỗi (Nghiêm trọng)
+Defect AQL (Major),缺陷AQL（主要）,AQL lỗi (Lớn)
+Defect AQL (Minor),缺陷AQL（次要）,AQL lỗi (Nhỏ)
+Defect Actual Sample Size,缺陷实际样本大小,Cỡ mẫu lỗi thực tế
+Defect Calculated Sample Size,缺陷计算样本大小,Cỡ mẫu lỗi tính toán
+Defect Critical (Acceptable Defects),缺陷严重（可接受缺陷）,Lỗi nghiêm trọng (Cho phép)
+Defect Critical (Actual Defects),缺陷严重（实际缺陷）,Lỗi nghiêm trọng (Lỗi thực tế)
+Defect Critical (Calculated Defects),缺陷严重（计算缺陷）,Lỗi nghiêm trọng (Dự tính)
+Defect Inspection Level,缺陷检验级别,Cấp độ kiểm tra lỗi
+Defect Level,缺陷级别,Cấp độ lỗi
+Defect Major (Acceptable Defects),缺陷主要（可接受缺陷）,Lỗi lớn (Cho phép)
+Defect Major (Actual Defects),缺陷主要（实际缺陷）,Lỗi lớn (Lỗi thực tế)
+Defect Major (Calculated Defects),缺陷主要（计算缺陷）,Lỗi lớn (Dự tính)
+Defect Minor (Acceptable Defects),缺陷次要（可接受缺陷）,Lỗi nhỏ (Cho phép)
+Defect Minor (Actual Defects),缺陷次要（实际缺陷）,Lỗi nhỏ (Lỗi thực tế)
+Defect Minor (Calculated Defects),缺陷次要（计算缺陷）,Lỗi nhỏ (Dự tính)
+Defect Rate Denominator (Y),缺陷率分母（Y）,Mẫu số tỷ lệ lỗi (Y)
+Defect Rate Numerator (X),缺陷率分子（X）,Tử số tỷ lệ lỗi (X)
+Defect Sampling Rule,缺陷抽样规则,Quy tắc lấy mẫu lỗi
+Defect Sampling Rule: Allow Realtime Update,缺陷抽样规则：允许实时更新,Cập nhật thời gian thực (Lấy mẫu lỗi)
+Defect Summary 01,缺陷摘要01,Tóm tắt lỗi 01
+Defect Summary 02,缺陷摘要02,Tóm tắt lỗi 02
+Defective Quantity Level,缺陷数量级别,Cấp độ số lượng lỗi
+Define Size,定义尺寸,Xác định kích thước
+Delivered Quantity,交付数量,Số lượng đã giao
+Denied Field ID,拒绝字段ID,ID trường không hợp lệ
+Details 3 Additional Information,详情附加信息3,Thông tin chi tiết bổ sung3
+Details 3 Information,详情信息3,Thông tin chi tiết3
+Details 3 Score %,详情分数3%,Chi tiết Điểm3 %
+Details 4 Additional Information,详情附加信息4,Thông tin chi tiết bổ sung4
+Details 4 Information,详情信息4,Thông tin chi tiết4
+Details 4 Score %,详情分数4%,Chi tiết Điểm4 %
+Details 5 Additional Information,详情附加信息5,Thông tin chi tiết bổ sung5
+Details 5 Information,详情信息5,Thông tin chi tiết5
+Details 5 Score %,详情分数5%,Chi tiết Điểm5 %
+Details 2 Additional Information,详情附加信息2,Thông tin chi tiết bổ sung2
+Details 2 Information,详情信息2,Thông tin chi tiết2
+Details 2 Score %,详情分数2%,Chi tiết Điểm2 %
+Details Additional Information,详情附加信息,Thông tin chi tiết bổ sung
+Details Information,详情信息,Thông tin chi tiết
+Details Score %,详情分数%,Chi tiết Điểm %
+Detele Barcode Scanned,删除条形码扫描,Xóa mã vạch đã quét
+Disclaimer for Auditor,审核员免责声明,Miễn trừ trách nhiệm (Kiểm toán)
+Disclaimer for Partner,合作伙伴免责声明,Miễn trừ trách nhiệm (Đối tác)
+Disclaimer for factory,工厂免责声明,Miễn trừ trách nhiệm (Nhà máy)
+Disclaimer for inspector,检验员免责声明,Miễn trừ trách nhiệm (Thanh tra)
+Display On Cover,显示在封面上,Hiển thị trên bìa
+Displaying %from% to %to% of %columnCount%,显示%columnCount%的%from%到%to%,Hiển thị %from% - %to% trong %columnCount%
+Disposition,处置,Hướng giải quyết
+Doc. Status,文件状态,Trạng thái tài liệu
+Download QC pack,下载QC包,Tải xuống gói QC
+Draft,草稿,Bản nháp
+Duplicate Window,复制窗口,Nhân bản cửa sổ
+EAN Code Report,EAN代码报告,Báo cáo mã EAN
+EAN Code Summary,EAN代码摘要,Tóm tắt mã EAN
+Effective from,生效日期,Có hiệu lực từ
+Effective to,失效日期,Có hiệu lực đến
+Enable Abort Inspection,启用中止检验,Cho phép hủy kiểm tra
+Enabled,已启用,Đã bật
+Estimated Effort (Hours),预计工时（小时）,Thời gian ước tính (giờ)
+Exception,例外,Ngoại lệ
+Exclude in Overall Result Calculation,在整体结果计算中排除,Loại trừ khỏi kết quả chung
+Expire After (Months),有效期（月）,Hết hạn sau (tháng)
+Expiry Date Basis,到期日依据,Cơ sở ngày hết hạn
+Export,导出,Xuất
+Export to excel,导出为Excel,Xuất sang Excel
+Facility Type,设施类型,Loại hình cơ sở
+Factory Audit Address Lookup by Factory,按工厂查找工厂审核地址,Tra cứu địa chỉ kiểm toán nhà máy theo nhà máy
+Factory Audit Template Lookup,工厂审核模板查找,Tra cứu mẫu kiểm toán nhà máy
+Factory Auditor Lookup,工厂审核员查找,Tra cứu kiểm toán viên nhà máy
+Factory Disclaimer,工厂免责声明,Tuyên bố miễn trừ trách nhiệm của nhà sản xuất
+Factory ID,工厂ID,ID nhà máy
+Factory Information,工厂信息,Thông tin nhà máy
+Factory Lookup,工厂查找,Tra cứu nhà máy
+Factory Sign Date,工厂签署日期,Ngày ký (Nhà máy)
+Factory Signature,工厂签名,Chữ ký nhà máy
+Fail Qty,不合格数量,Số lượng không đạt
+Field ID,字段ID,ID trường
+File,文件,Tệp
+File Category,文件类别,Danh mục tệp
+File Name,文件名称,Tên tệp
+File No.,文件编号,Số hiệu tệp
+File Type,文件类型,Loại tệp
+Files,文件,Tệp
+Fixed Sample Size,固定样本大小,Cỡ mẫu cố định
+Flag,标记,Gắn cờ
+Flagged,已标记,Đã gắn cờ
+Follow,关注,Theo dõi
+Follow-up Audit,跟进审核,Kiểm toán hậu kiểm
+From Score(>=),分数开始于（>=）,Từ điểm số (>=)
+GPS Coordinate Lat,GPS坐标纬度,Vĩ độ GPS
+GPS Coordinate Lng,GPS坐标经度,Kinh độ GPS
+GPS coordinate Lat,GPS坐标纬度,Vĩ độ GPS
+GPS coordinate Lng,GPS坐标经度,Kinh độ GPS
+General,常规,Tổng quan
+Hierarchy,层级,Phân cấp
+"If the Inspection Report Template is updated, the Sampling Rule, Test Items and Requirements would be changed. Are you sure you want to continue?",如果更新检验报告模板，抽样规则、测试项目和要求将被更改。您确定要继续吗？,"Nếu cập nhật Mẫu báo cáo, các thiết lập về Quy tắc lấy mẫu, Mục kiểm tra và Yêu cầu sẽ thay đổi. Bạn có chắc chắn muốn tiếp tục?"
+Image Type Lookup,图片类型查找,Tra cứu loại hình ảnh
+Images,图片,Hình ảnh
+Images/Attachments,图片/附件,Hình ảnh/Tệp đính kèm
+In Review,审核中,Đang xem xét
+Inactive,未启用,Không hoạt động
+Initialize CPM,初始化CPM,Khởi tạo CPM
+Initiated,已启动,Đã khởi tạo
+Inner GTIN,内部GTIN,GTIN bên trong
+Inspected Assortment Quantity,已检验分类数量,Số lượng phân loại đã kiểm tra
+Inspected Carton,已检验纸箱,Thùng carton đã kiểm tra
+Inspected Carton Quantity,已检验纸箱数量,Số lượng thùng carton đã kiểm tra
+Inspection Booking,检验预订,Đặt lịch kiểm tra
+Inspection Booking Address Lookup by Factory,按工厂查找检验预订地址,Tra cứu địa chỉ đặt lịch kiểm tra theo nhà máy
+Inspection Booking No,检验预订编号,Mã đặt lịch kiểm tra
+Inspection Booking Parties Lookup,检验预订方查找,Tra cứu thông tin các bên đặt lịch kiểm tra
+Inspection Comments,检验注释,Nhận xét kiểm tra
+Inspection Details,检验详情,Chi tiết kiểm tra
+Inspection Level,检验级别,Cấp độ kiểm tra
+Inspection Method,检验方法,Phương pháp kiểm tra
+Inspection Procedure,检验程序,Quy trình kiểm tra
+Inspection Report Address Lookup by Factory,按工厂查找检验报告地址,Tra cứu địa chỉ báo cáo kiểm tra theo nhà máy
+Inspection Report No.,检验报告编号,Mã báo cáo kiểm tra
+Inspection Report Template Lookup,检验报告模板查找,Tra cứu mẫu báo cáo kiểm tra
+Inspection Report Templete Lookup,检验报告模板查找,Tra cứu mẫu báo cáo kiểm tra
+Inspection Result,检验结果,Kết quả kiểm tra
+Inspection Result per Color/Size,每个颜色/尺寸的检验结果,Kết quả kiểm tra theo màu sắc/kích thước
+Inspection Summary,检验摘要,Tổng hợp kết quả kiểm tra
+Inspection Template,检验模板,Mẫu kiểm tra
+Inspection Template Lookup,检验模板查找,Tra cứu mẫu kiểm tra
+Inspection Template Name,检验模板名称,Tên mẫu kiểm tra
+Inspection Templete Lookup,检验模板查找,Tra cứu mẫu kiểm tra
+Inspector Disclaimer,检验员免责声明,Miễn trừ trách nhiệm (Thanh tra)
+Inspector Disclaimer Acceptance,检验员免责声明接受,Chấp nhận miễn trừ
+Inspector Sign Date,检验员签署日期,Ngày ký (Thanh tra)
+Item Color Lookup,项目颜色查找,Tra cứu màu sắc sản phẩm
+Item Details,项目详情,Chi tiết sản phẩm
+Item Size Lookup,项目尺寸查找,Tra cứu kích thước sản phẩm
+Item Tags,项目标签,Thẻ sản phẩm
+Item Type,项目类型,Loại sản phẩm
+Items By Color/Size,按颜色/尺寸分类的项目,Sản phẩm theo màu sắc/kích cỡ
+Items by Color/Size,按颜色/尺寸分类的项目,Sản phẩm theo màu sắc/kích cỡ
+Last Modified by,最后修改者,Sửa đổi lần cuối bởi
+Latest CAPA,最新CAPA,CAPA mới nhất
+Legend,图例,Chú giải
+Link by,关联,Liên kết bởi
+Linkage Type,关联类型,Loại liên kết
+Linkage to Inspection,关联到检验,Liên kết với Kiểm tra
+Linked Documents,关联文件,Tài liệu liên kết
+Lot No.,批号,Mã lô
+Mandatory,必填,Bắt buộc
+Mandatory field(s) is missing for marking the Inspection Booking(s) to scheduled.,标记检验预订为已排期时缺少必填字段。,"Vui lòng nhập các trường bắt buộc để chuyển trạng thái Đặt lịch sang ""Đã lên lịch""."
+Mark as,标记为,Đánh dấu là
+Max. Score (Total),最高分数（总计）,Điểm tối đa (Tổng điểm)
+Maximum Score,最高分数,Điểm tối đa
+Meas.,测量,Số đo
+Meas. AQL (Critical),测量AQL（严重）,AQL đo (Nghiêm trọng)
+Meas. AQL (Major),测量AQL（主要）,AQL đo (Lớn)
+Meas. AQL (Minor),测量AQL（次要）,AQL đo (Nhỏ)
+Meas. Actual Sample Size,测量实际样本大小,Cỡ mẫu đo thực tế
+Meas. Calculated Sample Size,测量计算样本大小,Cỡ mẫu đo dự tính
+Meas. Critical (Acceptable Defects),测量严重（可接受缺陷）,Lỗi đo nghiêm trọng (Cho phép)
+Meas. Critical (Actual Defects),测量严重（实际缺陷）,Lỗi đo nghiêm trọng (Thực tế)
+Meas. Critical (Calculated Defects),测量严重（计算缺陷）,Lỗi đo nghiêm trọng (Dự tính)
+Meas. Inspection Level,测量检验级别,Cấp độ kiểm tra đo
+Meas. Major (Acceptable Defects),测量主要（可接受缺陷）,Lỗi đo lớn (Cho phép)
+Meas. Major (Actual Defects),测量主要（实际缺陷）,Lỗi đo lớn (Thực tế)
+Meas. Major (Calculated Defects),测量主要（计算缺陷）,Lỗi đo lớn (Dự tính)
+Meas. Minor (Acceptable Defects),测量次要（可接受缺陷）,Lỗi đo nhỏ (Cho phép)
+Meas. Minor (Actual Defects),测量次要（实际缺陷）,Lỗi đo nhỏ (Thực tế)
+Meas. Minor (Calculated Defects),测量次要（计算缺陷）,Lỗi đo nhỏ (Dự tính)
+Measurement Result by Size by Color,按尺寸按颜色分类的测量结果,Kết quả đo theo kích thước và màu sắc
+Measurement by Size by Color,按尺寸按颜色分类的测量,Đo theo kích thước và màu sắc
+Measurements,测量,Số đo
+Mixed,混合,Hỗn hợp
+Mobile Activities,移动活动,Hoạt động di động
+Mobile App Settings,移动应用程序设置,Cài đặt ứng dụng
+Mobile Inspector App Settings,移动检验员应用程序设置,Cài đặt ứng dụng Mobile Inspector
+More,更多,Xem thêm
+Multi-Pack,多包装,Đóng gói hỗn hợp
+Name of Partner Representative,合作伙伴代表姓名,Tên người đại diện đối tác
+New Audit,新建审核,Kiểm toán mới
+New Audit Template,新建审核模板,Mẫu kiểm toán mới
+New CAPA Plan,新建CAPA计划,Kế hoạch CAPA mới
+New Capa Plan,新建Capa计划,Kế hoạch Capa mới
+New Corrective Action Plans,新建纠正措施计划,Kế hoạch khắc phục mới
+New Inspect Report,新建检验报告,Báo cáo kiểm tra mới
+New Inspection Booking,新建检验预订,Đặt lịch kiểm tra mới
+New Inspection Report,新建检验报告,Báo cáo kiểm tra mới
+New Line,新行,Dòng mới
+New Quality Plan Template,新建质量计划模板,Mẫu kế hoạch chất lượng mới
+No access right to mark the Inspection Booking to %1$s.,无权限将检验预订标记为%1$s。,Không có quyền đánh dấu đặt lịch là %1$s
+No access right to remove the Workflow status from the Inspection Booking.,无权限从检验预订中删除工作流状态。,Không có quyền xóa trạng thái quy trình
+No access right to update the Inspection Booking as it''s marked as %1$s.,无权限更新检验预订，因为它已标记为%1$s。,Không có quyền cập nhật lịch đã đánh dấu %1$s
+No access right to update the Inspection Booking.,无权限更新检验预订。,Không có quyền cập nhật lịch kiểm tra
+No. of Attachments,附件数量,Số tệp đính kèm
+No. of Cartons,纸箱数量,Số thùng carton
+Not Available,不可用,Không khả dụng
+Not Packed Qty,未包装数量,Số lượng chưa đóng gói
+Notes,备注,Ghi chú
+Notes / Instructions,备注/说明,Ghi chú / Hướng dẫn
+Number of Not Packed Cartons,未包装纸箱数量,Số thùng chưa đóng gói
+Number of Packed Cartons,已包装纸箱数量,Số thùng đã đóng gói
+Object,对象,Đối tượng
+Observations / Comments,观察/注释,Nhận xét/Bình luận
+Official,正式,Chính thức
+"Only one VPO Shipment Item could be included into one ""By Item"" Inspection Report.",一个“按项目”检验报告只能包含一个VPO装运项目。,"Chỉ có thể bao gồm một mặt hàng trong lô hàng VPO vào một báo cáo kiểm tra ""Theo mặt hàng""."
+"Only sample measurement with size detail could be updated into the Measurement Result table, please enter the size.",只有带尺寸详情的样本测量才能更新到测量结果表，请输入尺寸。,"Chỉ có kết quả đo mẫu kèm chi tiết kích thước mới được cập nhật vào bảng Kết quả đo, vui lòng nhập kích thước."
+Order Carton Quantity per Color/Size,每个颜色/尺寸的订单纸箱数量,Số thùng đặt hàng (Màu/Size)
+Order Quantity per Color/Size,每个颜色/尺寸的订单数量,Số lượng đặt hàng (Màu/Size)
+Other,其他,Khác
+Other Attachments & Comments,其他附件和注释,Các tệp đính kèm và bình luận khác
+Others,其他,Khác
+Others Table,其他表格,Bảng Khác
+Outer GTIN,外部GTIN,GTIN bên ngoài
+Overall Defect Rate,整体缺陷率,Tỷ lệ lỗi tổng thể
+Overall Disposition,整体处置,Quyết định tổng thể
+Packed Qty,已包装数量,Số lượng đóng gói
+Packed Qty in Carton,纸箱中已包装数量,Số lượng đóng gói trong thùng
+Packing Defect Summary,包装缺陷摘要,Tóm tắt lỗi đóng gói
+Packing Defects,包装缺陷,Lỗi đóng gói
+Packing Details,包装详情,Chi tiết đóng gói
+Packing Name,包装名称,Tên đóng gói
+Packing Summary,包装摘要,Tóm tắt đóng gói
+Packing Type,包装类型,Loại đóng gói
+Parent Type,父类型,Cấp cha
+Parties,各方,Các bên
+Partner Disclaimer,合作伙伴免责声明,Miễn trừ trách nhiệm (Đối tác)
+Partner Disclaimer Acceptance,合作伙伴免责声明接受,Chấp nhận Miễn trừ trách nhiệm (Đối tác)
+Partner ID,合作伙伴ID,ID đối tác
+Partner Information,合作伙伴信息,Thông tin đối tác
+Partner Signature,合作伙伴签名,Chữ ký của đối tác
+Partner Signed Location,合作伙伴签署地点,Địa điểm ký (Đối tác)
+Partner Signed On,合作伙伴签署日期,Ngày ký (Đối tác)
+Partner Type,合作伙伴类型,Loại đối tác
+Pending Approval,待批准,Đang chờ phê duyệt
+Planned Inspection Date,计划检验日期,Ngày kiểm tra dự kiến
+Planned Inspection Date must be two days after the current date.,计划检验日期必须是当前日期之后的两天。,Ngày kiểm tra dự kiến ​​phải cách ngày hiện tại hai ngày.
+Planned Inspection Dates,计划检验日期,Ngày dự kiến ​​kiểm tra
+Planned Inspection End Date,计划检验结束日期,Ngày kết thúc dự kiến
+Planned Inspection Start Date,计划检验开始日期,Ngày bắt đầu dự kiến
+Please select at least one field to batch update.,请至少选择一个字段进行批量更新。,Vui lòng chọn ít nhất một trường để cập nhật hàng loạt.
+Please select at least one record to batch update.,请至少选择一条记录进行批量更新。,Vui lòng chọn ít nhất một bản ghi để cập nhật hàng loạt.
+Please select the Size and Color first.,请先选择尺寸和颜色。,Vui lòng chọn Kích thước và Màu sắc trước.
+Print,打印,In
+Priority,优先级,Ưu tiên
+Produced Qty,生产数量,Số lượng sản xuất
+Product Hierarchy,产品层级,Phân cấp sản phẩm
+Production Ratio (%),生产比率（%）,Tỷ lệ sản xuất (%)
+Quality Plan / Section,质量计划/部分,Kế hoạch chất lượng / Phần
+Quality Plan Defect Details,质量计划缺陷详情,Chi tiết lỗi trong kế hoạch chất lượng
+Quality Plan Sections,质量计划部分,Các phần của Kế hoạch Chất lượng
+Quality Plan Template,质量计划模板,Mẫu kế hoạch chất lượng
+Quality Plans,质量计划,Kế hoạch chất lượng
+Quantity,数量,Số lượng
+Quantity Per Carton,每纸箱数量,Số lượng mỗi thùng
+Quantity by Size (Color),按尺寸（颜色）的数量,Số lượng theo kích cỡ (màu sắc)
+Ref.,参考,Tham chiếu
+Ref.Key,参考关键字,Khóa tham chiếu
+Refresh,刷新,Làm mới
+Refresh from Latest Item,从最新项目刷新,Làm mới từ mục mới nhất
+Rejection Defects,拒收缺陷,Lỗi từ chối
+Related Activities,相关活动,Hoạt động liên quan
+Released Quantity,放行数量,Số lượng đã phát hành
+Remark,备注,Nhận xét
+Report Card Details,报告卡详情,Chi tiết bảng điểm
+Report Information,报告信息,Thông tin báo cáo
+Requested,已请求,Đã yêu cầu
+Require CAPA,需要CAPA,Yêu cầu CAPA
+Require Signature,需要签名,Yêu cầu chữ ký
+Requirement,要求,Yêu cầu
+Requirements - 2 Details,要求 - 2条详情,Yêu cầu - 2 Chi tiết
+Requirements - 3 Details,要求 - 3条详情,Yêu cầu - 3 Chi tiết
+Requirements - 4 Details,要求 - 4条详情,Yêu cầu - 4 Chi tiết
+Requirements - 5 Details,要求 - 5条详情,Yêu cầu - 5 Chi tiết
+Result Summary,结果摘要,Tổng hợp kết quả
+Result Upon Short Qty,数量短缺时的结果,Kết quả khi thiếu hàng
+Revising,修订中,Đang sửa đổi
+Rework,返工,Làm lại
+Risk Rating,风险评级,Đánh giá rủi ro
+Rule name,规则名称,Tên quy tắc
+SKU No.,SKU编号,Mã SKU
+SKU Tags,SKU标签,Thẻ SKU
+Sampling,抽样,Lấy mẫu
+Sampling Method,抽样方法,Phương pháp lấy mẫu
+Sampling Plan,抽样计划,Kế hoạch lấy mẫu
+Sampling Rule,抽样规则,Quy tắc lấy mẫu
+Sampling Rule for Defect Details,缺陷详情的抽样规则,Quy tắc lấy mẫu cho chi tiết lỗi
+Sampling Rule for Measurement,测量的抽样规则,Quy tắc lấy mẫu đo
+Sampling Rule: Allow Realtime Update,抽样规则：允许实时更新,Cập nhật thời gian thực (Lấy mẫu)
+Save & Confirm,保存并确认,Lưu & Xác nhận
+Scheduled,已排期,Đã lên lịch
+Score (%),分数（%）,Điểm (%)
+Scoring,评分,Chấm điểm
+Scoring Details,评分详情,Chi tiết chấm điểm
+Scorings,评分,Điểm số
+Scorings Additional Information,评分附加信息,Thông tin bổ sung về điểm số
+Scorings Details,评分详情,Chi tiết điểm số
+Scorings Information,评分信息,Thông tin chấm điểm
+Section Score Weight,部分分数权重,Trọng số điểm theo phần
+Section Seq No.,部分序列号,Số thứ tự phần
+Section Type,部分类型,Loại phần
+Section/Descripton,部分/描述,Phần/Mô tả
+Select Files...,选择文件...,Chọn tệp...
+Select from Booking by Item...,从按项目分类的预订中选择...,Chọn theo mặt hàng (Đặt lịch)...
+Select from Booking by Lot...,从按批次分类的预订中选择...,Chọn theo lô (Đặt lịch)...
+Select from Item...,从项目中选择...,Chọn từ mục...
+Select from Vendor PO...,从供应商采购订单中选择...,Chọn từ đơn PO Vendor...
+Select...,选择...,Chọn...
+Send to Buyer,发送给买家,Gửi cho người mua
+Send to Vendor,发送给供应商,Gửi cho nhà cung cấp
+Sequential Inspection,序贯检验,Kiểm tra tuần tự
+Shared Files,共享文件,Tệp được chia sẻ
+Shipment,装运,Lô hàng
+Shipment Items from Vendor PO,来自供应商采购订单的装运项目,Mặt hàng từ đơn PO Vendor
+Shipment Released Date,装运放行日期,Ngày xuất kho
+Shipment Tags,装运标签,Thẻ vận chuyển
+Short Description,简短描述,Mô tả ngắn
+Short Qty Threshold (%),短缺数量阈值（%）,Ngưỡng số lượng thiếu (%)
+Show Defect Rate,显示缺陷率,Hiển thị tỷ lệ lỗi
+Show Final Validations in Conclusion,在结论中显示最终验证,Hiển thị xác thực cuối cùng
+Show Shipped Quantity Check Table,显示装运数量检查表,Hiển thị bảng kiểm tra số lượng hàng đã giao
+Show measurement breakdown,显示测量明细,Hiển thị chi tiết số đo
+Sign Location,签署地点,Vị trí ký
+Signature Info,签名信息,Thông tin chữ ký
+Signed Auditor,已签署审核员,Kiểm toán viên đã ký
+Signed Inspector,已签署检验员,Thanh tra viên đã ký
+Sort Out Quantity,分拣数量,Số lượng phân loại
+Sourcing Office / Agency,采购办事处/代理,Văn phòng/Đại lý tìm nguồn cung ứng
+Specify if Item Template is Different,指明项目模板是否不同,Chỉ định nếu mẫu khác biệt
+Standard Meas.,标准测量,Số đo tiêu chuẩn
+State / Province,州/省,Tỉnh/Thành phố
+Supplier Audit Address Lookup by Vendor,按供应商查找供应商审核地址,Tra cứu địa chỉ kiểm toán nhà cung cấp theo nhà cung cấp
+Supplier Audit Lookup by Vendor,按供应商查找供应商审核,Tra cứu thông tin nhà cung cấp theo nhà cung cấp
+Switch Size/Color...,切换尺寸/颜色...,Đổi Kích thước/Màu...
+Tab,标签页,Thẻ
+Template Lookup,模板查找,Tra cứu mẫu
+Test Item Defects,测试项目缺陷,Lỗi mục thử nghiệm
+Test Items,测试项目,Mục kiểm tra
+Test Request,测试请求,Yêu cầu kiểm tra
+"The Inspection Report Template for VPO Shipment Item will be removed if the Inspection Format is changed to ""By Lot"". Are you sure you want to continue?",如果检验格式更改为“按批次”，VPO装运项目的检验报告模板将被删除。您确定要继续吗？,"Mẫu báo cáo kiểm tra cho mặt hàng vận chuyển VPO sẽ bị xóa nếu định dạng kiểm tra được thay đổi thành ""Theo lô"". Bạn có chắc chắn muốn tiếp tục không?"
+The document you updated is not an active document.,您更新的文件不是有效文件。,Tài liệu chưa được kích hoạt
+The document you updated is not the latest version.,您更新的文件不是最新版本。,Không phải phiên bản mới nhất
+The field you updated cannot be empty.,您更新的字段不能为空。,Trường không được để trống
+"The measurement details entered will be removed after adding the new Shipment Item(s), are you sure you want to continue?",添加新装运项目后，输入的测量详情将被删除，您确定要继续吗？,"Thông tin kích thước đã nhập sẽ bị xóa sau khi thêm (các) mặt hàng vận chuyển mới, bạn có chắc chắn muốn tiếp tục không?"
+"The number of documents you selected has exceeded the maximum, please reselect.",您选择的文件数量已超过最大值，请重新选择。,Số lượng tệp vượt quá giới hạn cho phép. Vui lòng chọn lại.
+This record is available under the following condition(s).,此记录在以下条件下可用。,Bản ghi này được cung cấp theo (các) điều kiện sau.
+To Score(<),结束分数（<）,Đến điểm số (<)
+Tools,工具,Công cụ
+Total Booking Quantity,预订总数,Tổng lượng đặt lịch
+Total Cost,总成本,Tổng chi phí
+Total Critical,严重总数,Tổng lỗi Nghiêm trọng
+Total Defective Unit,缺陷单位总数,Tổng đơn vị lỗi
+Total Failed Quantity,不合格总数,Tổng lượng không đạt
+Total Inspected Packing,已检验包装总数,Tổng bao bì kiểm tra
+Total Inspected Quantity,已检验总数,Tổng lượng kiểm tra
+Total Major,主要总数,Tổng lỗi Lớn
+Total Measured Quantity,已测量总数,Tổng lượng đo
+Total Minor,次要总数,Tổng lỗi Nhỏ
+Total Number of Defects,缺陷总数,Tổng số lỗi
+Total PO Quantity,采购订单总数,Tổng số lượng PO
+Total Packing,包装总数,Tổng đóng gói
+Total Quantity,总数,Tổng số lượng
+Total Released Quantity,放行总数,Tổng lượng xuất
+Total Work Time,总工作时间,Tổng thời gian làm việc
+Total Work Time(min),总工作时间（分钟）,Tổng thời gian làm việc (phút)
+Town / City,镇/市,Thị trấn/Thành phố
+Type ID,类型ID,ID loại
+UPC,UPC,Mã UPC
+Unfollow,取消关注,Hủy theo dõi
+User Lookup,用户查找,Tra cứu người dùng
+VPO Tags,VPO标签,Thẻ VPO
+Vendor Comments,供应商注释,Nhận xét (Vendor)
+Vendor ID,供应商ID,ID Vendor
+Vendor Lookup,供应商查找,Tra cứu Vendor
+Vendor Name,供应商名称,Tên Vendor
+Vendor PO No.,供应商采购订单号,Số PO Vendor
+Ver.,版本,Bản
+View,查看,Xem
+View CAPA,查看CAPA,Xem CAPA
+Weighted Score (%),加权分数（%）,Điểm số có trọng số (%)
+Weighting,权重,Trọng số
+Where Used,使用位置,Nơi sử dụng
+Work Time,工作时间,Thời gian làm việc
+Work Time(seconds),工作时间（秒）,Thời gian làm việc (giây)
+You have selected the same template in other requirement tab. Please select another one.,您在其他要求标签页中选择了相同的模板。请选择另一个。,Bạn đã chọn cùng một mẫu trong tab yêu cầu khác. Vui lòng chọn một mẫu khác.
+ZT / Critical Issue,零容忍/严重问题,ZT / Vấn đề nghiêm trọng
+[Add],[添加],[Thêm]
+[Delete],[删除],[Xóa]
+docStatus,文件状态,Trạng thái tài liệu
+Actual Carton Sample Size,实际纸箱样本大小,Cỡ mẫu thùng thực tế
+Add More Photo,添加更多照片,Thêm ảnh...
+Add New User,添加新用户,Thêm người dùng
+Manage {},管理{},Quản lý {}
+Aggregated Defect Count,汇总缺陷数量,Tổng lỗi tổng hợp
+Total Critical,严重总数,Tổng số lỗi Nghiêm trọng
+Total Defective Unit,缺陷单位总数,Tổng số đơn vị bị lỗi
+Total Major,主要总数,Tổng số lỗi Lớn
+Total Minor,次要总数,Tổng số lỗi Nhỏ
+All Report Version,所有报告版本,Mọi phiên bản báo cáo
+All Bookings/Reports,所有预订/报告,Mọi Đặt lịch/Báo cáo
+Booking Carton Quantity,预订纸箱数量,Lượng thùng đặt lịch
+"Booking detail is not available, connect to network and try again.",预订详情不可用，请连接网络后重试。,Lỗi tải thông tin đặt lịch
+Booking Quantity,预订数量,Lượng đặt lịch
+Currently Editing,当前编辑中,Đang chỉnh sửa
+Observation,观察,Ghi nhận
+Clear All,清除全部,Xóa tất cả
+{} Auditors,{}位审核员,{} Kiểm toán viên
+{} Inspectors,{}位检验员,{} Thanh tra
+{} Viewers,{}位查看者,{} Người xem
+"Report detail is not available, connect to network and try again.",报告详情不可用，请连接网络后重试。,Lỗi tải chi tiết báo cáo
+Disclaimer,免责声明,Miễn trừ trách nhiệm
+"Please note that in order to develop and strengthen a healthy business relationship with our business partners, we have an internal policy, which prohibits our employees from accepting advantages including gifts or favours of any kind from our business partners. We therefore would like to request you to please refrain from offering any gifts or favours to our employees during their upcoming visit to your factory. Your continuing co-operation and support are the most valuable gifts of all. Thank you for your cooperation.請注意，為了與我們的業務夥伴發展和加強健康的業務關係，我們制定了一項內部政策，該政策禁止我們的員工接受利益,包括來自我們業務夥伴的禮物或好處。因此，我們希望您不要在我們的員工訪問您的工廠期間向他們提供任何礼物或利益。您的持續合作與支持是最有價值的禮物。謝謝您的合作。",请注意，为了与我们的业务伙伴发展和加强健康的业务关系，我们制定了一项内部政策，该政策禁止我们的员工接受利益，包括来自我们业务伙伴的礼物或好处。因此，我们希望您不要在我们的员工访问您的工厂期间向他们提供任何礼物或利益。您的持续合作与支持是最有价值的礼物。谢谢您的合作。,"Xin lưu ý rằng để phát triển và củng cố mối quan hệ kinh doanh lành mạnh với các đối tác, chúng tôi có chính sách nội bộ nghiêm cấm nhân viên nhận bất kỳ lợi ích nào, bao gồm quà tặng hoặc ưu đãi từ các đối tác kinh doanh. Do đó, chúng tôi kính mong quý công ty vui lòng không tặng bất kỳ quà tặng hoặc ưu đãi nào cho nhân viên của chúng tôi trong chuyến thăm nhà máy sắp tới của quý công ty. Sự hợp tác và hỗ trợ liên tục của quý công ty là món quà quý giá nhất. Xin cảm ơn sự hợp tác của quý công ty. 請注意，為了與我們的業務夥伴發展和加強健康的業務關係，我們制定了一項內部政策，該政策禁止我們的員工接受利益,包括來自我們業務夥伴的禮物或好處。因此，我們希望您不要在我們的員工訪問您的工廠期間向他們提供任何礼物或利益。您的持續合作與支持是最有價值的禮物。謝謝您的合作。"
+Fast Inspection,快速检验,Kiểm tra nhanh
+Getting Latest Content...,正在获取最新内容...,Đang tải nội dung...
+Getting Latest Report Structure...,正在获取最新报告结构...,Đang tải cấu trúc báo cáo...
+Inspection Details,检验详情,Chi tiết kiểm tra
+Quality Plans,质量计划,Kế hoạch chất lượng
+No internet. Check your connection and try again.,无网络连接。请检查您的连接后重试。,Lỗi kết nối internet
+Enable the permission in the Settings to save photos.,请在设置中启用保存照片的权限。,Vui lòng cấp quyền lưu ảnh
+Photos And Videos Permission Denied,照片和视频权限被拒绝,Truy cập bị từ chối
+Planned Inspection Date,计划检验日期,Ngày kiểm tra dự kiến
+Difference between order & actual quantity exceeds the allowed limit,订单与实际数量之间的差异超过允许限制,Chênh lệch giữa số lượng đặt hàng và số lượng thực tế vượt quá giới hạn cho phép.
+AI Risk Rating,AI风险评级,Đánh giá rủi ro AI
+High Risk,高风险,Rủi ro cao
+Medium Risk,中风险,Rủi ro trung bình
+Click to view details,点击查看详情,Xem chi tiết
+One or more items have risk of failure,一个或多个项目有不合格风险,Có nguy cơ lỗi
+Revert to Round {},恢复到第{}轮,Trở lại Vòng {}
+Start Round {},开始第{}轮,Bắt đầu Vòng {}
+{} selected,已选择{},{} đã chọn
+"Server not reachable, please check your network.",无法连接服务器，请检查您的网络。,Lỗi kết nối máy chủ
+Show Pending to Sync Only,仅显示待同步项目,Chỉ hiện chờ đồng bộ
+Store Audit,商店审核,Kiểm toán cửa hàng
+Switch and manage your accounts here,在此切换和管理您的账户,Quản lý tài khoản
+Change User,更换用户,Đổi người dùng
+Sync All,全部同步,Đồng bộ tất cả
+No booking is downloaded. \n No report is uploaded.,没有下载的预订。\n 没有上传的报告。,Chưa có dữ liệu đặt lịch hoặc báo cáo.
+This Booking Version’s Report(s) Only,仅此预订版本的报告,Chỉ báo cáo phiên bản đặt lịch này
+Total Booking Quantity,预订总数量,Tổng lượng đặt lịch
+Total Score,总分数,Tổng điểm
+Understand,了解,Đã hiểu
+Unknown Mode,未知模式,Chế độ không xác định
+Templete Lookup,模板查找,Tra cứu mẫu

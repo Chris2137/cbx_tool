@@ -1,0 +1,176 @@
+[
+  {
+    "labelId": "lbl.inspectBooking.inspectBookingMenubar.tools",
+    "locale": "vi_VN",
+    "label": "tools",
+    "moduleCode": "inspectBooking"
+  },
+  {
+    "labelId": "lbl.inspectBooking.inspectBookingLinkbar.comments",
+    "locale": "vi_VN",
+    "label": "Comments",
+    "moduleCode": "inspectBooking"
+  },
+  {
+    "labelId": "lbl.inspectBooking.tabParties.vendorInformationSection.vendorCode",
+    "locale": "vi_VN",
+    "label": "ID Vendor",
+    "moduleCode": "inspectBooking"
+  },
+  {
+    "labelId": "lbl.inspectBooking.tabHeader.inspectBookingItems.productCategory",
+    "locale": "vi_VN",
+    "label": "Product Division",
+    "moduleCode": "inspectBooking"
+  },
+  {
+    "labelId": "lbl.inspectBooking.tabAttach.inspectBookingAttachmentsList.attachmentDelete",
+    "locale": "vi_VN",
+    "label": "Attachment Delete",
+    "moduleCode": "inspectBooking"
+  },
+  {
+    "labelId": "lbl.inspectBooking.tabAttach.inspectBookingShareFileList.shareFileName",
+    "locale": "vi_VN",
+    "label": "File Name",
+    "moduleCode": "inspectBooking"
+  },
+  {
+    "labelId": "lbl.inspectBooking.tabAttach.inspectBookingShareFileList.shareFileType",
+    "locale": "vi_VN",
+    "label": "File Type",
+    "moduleCode": "inspectBooking"
+  },
+  {
+    "labelId": "lbl.inspectBooking.tabAttach.inspectBookingShareFileList.shareFileDescription",
+    "locale": "vi_VN",
+    "label": "Description",
+    "moduleCode": "inspectBooking"
+  },
+  {
+    "labelId": "lbl.inspectBooking.tabAttach.inspectBookingShareFileList.files",
+    "locale": "vi_VN",
+    "label": "Files",
+    "moduleCode": "inspectBooking"
+  },
+  {
+    "labelId": "lbl.inspectBooking.tabAttach.inspectBookingShareFileList.shareFile",
+    "locale": "vi_VN",
+    "label": "File No.",
+    "moduleCode": "inspectBooking"
+  },
+  {
+    "labelId": "lbl.inspectBooking.tabAttach.inspectBookingShareFileList.shareFileValidFrom",
+    "locale": "vi_VN",
+    "label": "Effective from",
+    "moduleCode": "inspectBooking"
+  },
+  {
+    "labelId": "lbl.inspectBooking.tabAttach.inspectBookingShareFileList.shareFileValidTo",
+    "locale": "vi_VN",
+    "label": "Effective to",
+    "moduleCode": "inspectBooking"
+  },
+  {
+    "labelId": "lbl.inspectBooking.tabAttach.inspectBookingShareFileList.shareFileNotesOrInstructions",
+    "locale": "vi_VN",
+    "label": "Notes / Instructions",
+    "moduleCode": "inspectBooking"
+  },
+  {
+    "labelId": "lbl.inspectBooking.tabAttach.inspectBookingShareFileList.updateUserName",
+    "locale": "vi_VN",
+    "label": "Last Modified by",
+    "moduleCode": "inspectBooking"
+  },
+  {
+    "labelId": "lbl.inspectBooking.tabAttach.inspectBookingShareFileList.updatedOn",
+    "locale": "vi_VN",
+    "label": "Last Modified on",
+    "moduleCode": "inspectBooking"
+  },
+  {
+    "labelId": "lbl.inspectBooking.tabAttach.inspectBookingShareFileList.shareFileStatus",
+    "locale": "vi_VN",
+    "label": "Status",
+    "moduleCode": "inspectBooking"
+  },
+  {
+    "labelId": "lbl.inspectBooking.tabHeader.generalInformationSection.inspectTemplate",
+    "locale": "vi_VN",
+    "label": "Inspection Template Lookup",
+    "moduleCode": "inspectBooking"
+  },
+  {
+    "labelId": "lbl.inspectBooking.tabHeader.generalInformationSection.inspectors",
+    "locale": "vi_VN",
+    "label": "User Lookup",
+    "moduleCode": "inspectBooking"
+  },
+  {
+    "labelId": "lbl.inspectBooking.inspectBookingMenubar.createGroup.newInpectReport",
+    "locale": "vi_VN",
+    "label": "Inspection Booking Shipment Items Lookup",
+    "moduleCode": "inspectBooking"
+  },
+  {
+    "labelId": "lbl.inspectBooking.tabParties.factoryInformationSection.factory",
+    "locale": "vi_VN",
+    "label": "Select Factory",
+    "moduleCode": "inspectBooking"
+  },
+  {
+    "labelId": "lbl.inspectBooking.tabParties.factoryInformationSection.address",
+    "locale": "vi_VN",
+    "label": "Inspection Booking Address Lookup by Factory",
+    "moduleCode": "inspectBooking"
+  },
+  {
+    "labelId": "lbl.inspectBooking.tabParties.vendorInformationSection.vendor",
+    "locale": "vi_VN",
+    "label": "Select Vendor",
+    "moduleCode": "inspectBooking"
+  },
+  {
+    "labelId": "lbl.inspectBooking.tabParties.customerInformationSection.customer",
+    "locale": "vi_VN",
+    "label": "Select Customer",
+    "moduleCode": "inspectBooking"
+  },
+  {
+    "labelId": "lbl.inspectBooking.tabHeader.inspectBookingItems.selectFormItem",
+    "locale": "vi_VN",
+    "label": "Select Item",
+    "moduleCode": "inspectBooking"
+  },
+  {
+    "labelId": "lbl.inspectBooking.tabHeader.inspectBookingItems.itemColors",
+    "locale": "vi_VN",
+    "label": "Item Color Lookup",
+    "moduleCode": "inspectBooking"
+  },
+  {
+    "labelId": "lbl.inspectBooking.tabHeader.inspectBookingItems.itemSizes",
+    "locale": "vi_VN",
+    "label": "Item Size Lookup",
+    "moduleCode": "inspectBooking"
+  },
+  {
+    "labelId": "lbl.inspectBooking.tabHeader.inspectBookingItems.reportTemplate",
+    "locale": "vi_VN",
+    "label": "Inspection Report Template Lookup",
+    "moduleCode": "inspectBooking"
+  },
+  {
+    "labelId": "lbl.inspectBooking.tabAttach.inspectBookingShareFile.selectShareFile",
+    "locale": "vi_VN",
+    "label": "Select Share File",
+    "moduleCode": "inspectBooking"
+  },
+  {
+    "labelId": "lbl.inspectBooking.tabHeader.inspectBookingItems.selectFormVPO",
+    "locale": "vi_VN",
+    "label": "Shipment Items Lookup",
+    "moduleCode": "inspectBooking"
+  }
+]
