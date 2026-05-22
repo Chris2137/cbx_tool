@@ -13,9 +13,9 @@ def main() -> None:
 
     print("\nUsing credential profile:")
     print(f"  profile   : {profile_name}")
-    print(f"  server    : {mask_value(credentials.get('server', ''))}")
-    print(f"  username  : {mask_value(credentials.get('username', ''))}")
-    print(f"  client_id : {mask_value(credentials.get('CLIENT_ID', ''))}")
+    print(f"  server    : {credentials.get('server', '')}")
+    print(f"  username  : {credentials.get('username', '')}")
+    # print(f"  client_id : {mask_value(credentials.get('CLIENT_ID', ''))}")
 
     session = requests.Session()
     auth_state: dict = {

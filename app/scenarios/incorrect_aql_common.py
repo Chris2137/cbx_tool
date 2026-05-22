@@ -117,18 +117,22 @@ def process_report_doc(
     if not isinstance(total_actual_qty, int):
         total_actual_qty = int(total_actual_qty)
 
-    print(f"Calculating AQL with totalActualQty = {total_actual_qty}\n")
-    calculate_and_print_aql(
-        all_sections,
-        total_actual_qty,
-        sample_size_code_letter_rows,
-        pendulum_map,
-        lookup_rows_by_name,
-    )
+    if total_actual_qty > 0:
+        print(f"Calculating AQL with totalActualQty = {total_actual_qty}\n")
+        calculate_and_print_aql(
+            all_sections,
+            total_actual_qty,
+            sample_size_code_letter_rows,
+            pendulum_map,
+            lookup_rows_by_name,
+        )
+    else:
+        print("totalActualQty is 0, so AQL cannot be calculated yet.")
+        print("Please enter an actual quantity to continue.\n")
 
     while True:
         user_input = input(
-            "Enter another actual quantity to recalculate, or q to return to main menu: "
+            "Enter actual quantity to calculate, or q to return to main menu: "
         ).strip()
 
         if user_input.lower() == "q":

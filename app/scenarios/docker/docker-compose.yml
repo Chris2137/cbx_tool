@@ -1,0 +1,16 @@
+version: "3"
+services:
+  libretranslate:
+    image: libretranslate/libretranslate:latest
+    restart: unless-stopped
+    ports:
+      - "8080:5000"
+    environment:
+      LT_UPDATE_MODELS: "true"
+      LT_HOST: "0.0.0.0"
+      LT_API_KEYS: "false"
+    volumes:
+      - libretranslate_models:/home/libretranslate/.local
+
+volumes:
+  libretranslate_models:
