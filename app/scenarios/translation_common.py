@@ -18,6 +18,7 @@ OUTPUT_DIR = Path("output/translation")
 LABEL_UPDATES_JSON = OUTPUT_DIR / "label_updates.json"
 LABEL_UPDATES_PROGRESS_JSON = OUTPUT_DIR / "label_updates_progress.json"
 LABEL_UPDATES_FAILED_DIR = OUTPUT_DIR / "failed_payloads"
+RAW_FILES_FROM_API_DIR = OUTPUT_DIR / "rawFilesFromApi"
 
 def relogin_for_translation_action(context: ScenarioContext) -> None:
     print("\nRe-login with profile account...")
@@ -44,8 +45,14 @@ def is_untranslated_label(label: Any) -> bool:
     if not has_ascii_letters:
         return False
 
-    has_cjk = bool(re.search(r"[\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff]", text))
+    has_cjk = bool(re.search(r"[\u3400-\u4DBF\u4E00-\u9FFF\uF900-\uFAFF]", text))
     if has_cjk:
+        return False
+
+    has_japanese = bool(
+        re.search(r"[\u3000-\u303F\u3040-\u309F\u30A0-\u30FF\uFF00-\uFFEF]", text)
+    )
+    if has_japanese:
         return False
 
     has_vietnamese_chars = bool(
@@ -98,6 +105,7 @@ def add_unique_record(target: list[dict], record: dict) -> None:
 
 def ensure_output_dir() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    RAW_FILES_FROM_API_DIR.mkdir(parents=True, exist_ok=True)
 
 
 def slugify_filename(value: str) -> str:
@@ -112,7 +120,7 @@ def write_translation_csv(
 ) -> Path:
     ensure_output_dir()
 
-    file_path = OUTPUT_DIR / f"{slugify_filename(title)}.csv"
+    file_path = RAW_FILES_FROM_API_DIR / f"{slugify_filename(title)}.csv"
     fieldnames = ["group", "path", "label", "labelId"]
 
     with file_path.open("w", encoding="utf-8-sig", newline="") as f:
@@ -147,7 +155,7 @@ def concatenate_translation_csvs() -> list[Path]:
 
     csv_files = sorted(
         file_path
-        for file_path in OUTPUT_DIR.glob("*.csv")
+        for file_path in RAW_FILES_FROM_API_DIR.glob("*.csv")
         if not file_path.name.startswith("translation_summary_")
     )
 
