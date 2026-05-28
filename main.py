@@ -2,7 +2,6 @@ import requests
 
 from app.auth import login
 from app.config import load_selected_credentials
-from app.debug_utils import mask_value
 from app.http_client import try_resume_session
 from app.scenarios import show_main_menu
 from app.scenarios.registry import ScenarioContext

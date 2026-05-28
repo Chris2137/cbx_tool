@@ -2,6 +2,7 @@ from configparser import ConfigParser
 from io import StringIO
 from pathlib import Path
 
+import requests
 
 TOKEN_PATH = "/oauth2/token"
 CREDENTIALS_DIR = Path("credentials")
@@ -26,18 +27,81 @@ def list_credential_profiles():
     return profiles
 
 
+def check_server_versions_for_all_profiles() -> None:
+    from app.auth import login
+    from app.http_client import api_request
+    import json
+
+    profiles = list_credential_profiles()
+
+    print("\nChecking server version for all profiles:\n")
+
+    for profile_name, file_path in profiles:
+        print(f"[{profile_name}]")
+
+        try:
+            credentials = load_properties_file(file_path)
+            session = requests.Session()
+            auth_state = {
+                "access_token": None,
+                "refresh_token": None,
+            }
+
+            login(session, credentials, auth_state, file_path)
+
+            response = api_request(
+                session=session,
+                credentials=credentials,
+                auth_state=auth_state,
+                credentials_file=file_path,
+                method="GET",
+                path="api/system/releaseLog",
+            )
+
+            # print("  status code:")
+            # print(f"  {response.status_code}")
+
+            # print("  raw response text:")
+            # print(response.text)
+
+            payload = response.json()
+
+            # print("  parsed response:")
+            # print(json.dumps(payload, indent=2, ensure_ascii=False))
+
+            version = ""
+            if isinstance(payload, dict):
+                version = payload.get("version", "") or ""
+
+            print(f"  version : {version or '<missing>'}")
+
+        except Exception as exc:
+            print(f"  version : <error> {exc}")
+
+        print()
+
+
 def prompt_select_profile():
     profiles = list_credential_profiles()
 
-    print("\nAvailable credential profiles:")
-    for idx, (profile_name, _) in enumerate(profiles, start=1):
-        print(f"  {idx}. {profile_name}")
-
     while True:
-        choice = input("\nSelect profile: ").strip()
+        print("\nAvailable credential profiles:")
+        for idx, (profile_name, _) in enumerate(profiles, start=1):
+            print(f"  {idx}. {profile_name}")
+        print("  v. Check server version")
+        print("  q. Quit")
+
+        choice = input("\nSelect profile: ").strip().lower()
+
+        if choice == "v":
+            check_server_versions_for_all_profiles()
+            continue
+
+        if choice == "q":
+            raise SystemExit(0)
 
         if not choice.isdigit():
-            print("Invalid input. Please enter a number.")
+            print("Invalid input. Please enter a number, 'v', or 'q'.")
             continue
 
         index = int(choice)
