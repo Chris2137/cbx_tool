@@ -41,6 +41,9 @@ def is_untranslated_label(label: Any) -> bool:
     if not text:
         return False
 
+    if "_translated" in text.casefold():
+        return False
+
     has_ascii_letters = bool(re.search(r"[A-Za-z]", text))
     if not has_ascii_letters:
         return False
@@ -427,15 +430,16 @@ def prepare_ready_to_translate_csv() -> Path | None:
     fieldnames = [
         "label",
         "labelId",
-        "es_ES",
-        "fr_CA",
-        "id_ID",
-        "it_IT",
-        "ja_JP",
-        "pt_BR",
-        "tr_TR",
-        "vi_VN",
-        "zh_CN",
+        "translate",
+        # "es_ES",
+        # "fr_CA",
+        # "id_ID",
+        # "it_IT",
+        # "ja_JP",
+        # "pt_BR",
+        # "tr_TR",
+        # "vi_VN",
+        # "zh_CN",
     ]
 
     row_count = 0
@@ -452,15 +456,16 @@ def prepare_ready_to_translate_csv() -> Path | None:
                     {
                         "label": row.get("label", ""),
                         "labelId": row.get("labelId", ""),
-                        "es_ES": "",
-                        "fr_CA": "",
-                        "id_ID": "",
-                        "it_IT": "",
-                        "ja_JP": "",
-                        "pt_BR": "",
-                        "tr_TR": "",
-                        "vi_VN": "",
-                        "zh_CN": "",
+                        "translate": "",
+                        # "es_ES": "",
+                        # "fr_CA": "",
+                        # "id_ID": "",
+                        # "it_IT": "",
+                        # "ja_JP": "",
+                        # "pt_BR": "",
+                        # "tr_TR": "",
+                        # "vi_VN": "",
+                        # "zh_CN": "",
                     }
                 )
                 row_count += 1
@@ -492,15 +497,16 @@ def run_translate_ready_to_translate_csv() -> Path | None:
         return None
 
     locales = [
-        "es_ES",
-        "fr_CA",
-        "id_ID",
-        "it_IT",
-        "ja_JP",
-        "pt_BR",
-        "tr_TR",
-        "vi_VN",
-        "zh_CN",
+        "translate",
+        # "es_ES",
+        # "fr_CA",
+        # "id_ID",
+        # "it_IT",
+        # "ja_JP",
+        # "pt_BR",
+        # "tr_TR",
+        # "vi_VN",
+        # "zh_CN",
     ]
     language_map = {
         "es_ES": "es",
@@ -598,14 +604,20 @@ def run_translate_ready_to_translate_csv() -> Path | None:
         elif label in cache:
             translated_map = cache[label]
         elif is_technical_shorthand(label):
-            translated_map = {locale: label for locale in locales}
+            translated_map = {
+                locale: f"{label}_translated" if locale == "translate" else label
+                for locale in locales
+            }
             cache[label] = translated_map
         else:
             translated_map = {}
             for locale in locales:
-                translated_map[locale] = translate_text(label, language_map[locale])
-                if sleep_seconds > 0:
-                    time.sleep(sleep_seconds)
+                if locale == "translate":
+                    translated_map[locale] = f"{label}_translated"
+                else:
+                    translated_map[locale] = translate_text(label, language_map[locale])
+                    if sleep_seconds > 0:
+                        time.sleep(sleep_seconds)
             cache[label] = translated_map
 
         new_row = dict(row)
@@ -636,15 +648,16 @@ def prepare_label_updates_json() -> Path | None:
         return None
 
     locale_columns = [
-        "es_ES",
-        "fr_CA",
-        "id_ID",
-        "it_IT",
-        "ja_JP",
-        "pt_BR",
-        "tr_TR",
-        "vi_VN",
-        "zh_CN",
+        "translate",
+        # "es_ES",
+        # "fr_CA",
+        # "id_ID",
+        # "it_IT",
+        # "ja_JP",
+        # "pt_BR",
+        # "tr_TR",
+        # "vi_VN",
+        # "zh_CN",
     ]
 
     updates: list[dict] = []

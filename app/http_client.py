@@ -132,6 +132,7 @@ def api_request(
     json: dict | list | None = None,
     headers: dict | None = None,
     timeout: int = 60,
+    allowed_statuses: set[int] | None = None,
 ) -> requests.Response:
     url = urljoin(credentials["server"], path)
     merged_headers = build_api_headers(auth_state, headers)
@@ -172,6 +173,10 @@ def api_request(
             )
 
     debug_api_call(path, response, json)
+
+    if allowed_statuses and response.status_code in allowed_statuses:
+        return response
+
     return ensure_success(response, f"{method.upper()} {path}")
 
 

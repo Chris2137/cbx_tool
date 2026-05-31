@@ -132,7 +132,7 @@ def _run_environment_api_action(context: ScenarioContext, action_key: str) -> No
     print()
 
 
-@register_scenario("5", "Environment API")
+@register_scenario("6", "Environment API")
 def scenario_environment_api(context: ScenarioContext) -> None:
     while True:
         _show_environment_api_submenu()

@@ -52,7 +52,7 @@ def _run_booking_list_page(context: ScenarioContext) -> None:
         [
             "api/views/v2/inspectBookingView",
             "api/views/v2/inspectBookingMyBookingView",
-            "api/views/v2/vpoPoLineRiskView",
+            "api/views/v2/inspectBookingActiveView",
             "api/views/v2/inspectBookingItemColorSizeView",
         ],
     )
